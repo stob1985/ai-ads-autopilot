@@ -1,0 +1,38 @@
+# env & secrets
+.env
+.env.local
+*.key
+
+# python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# node (if ever added)
+node_modules/
+npm-debug.log*
+
+# outputs & user uploads (too big / private)
+ad-workspace/*
+!ad-workspace/.gitkeep
+inputs/*
+!inputs/.gitkeep
+!inputs/README.md
+
+# os
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
+*.swp
+
+# logs
+*.log

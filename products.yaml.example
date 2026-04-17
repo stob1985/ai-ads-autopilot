@@ -1,0 +1,18 @@
+# Level 3 autopilot input. Copy to products.yaml and edit.
+#
+# Each entry is one product. The autopilot loop rotates through them, shipping
+# a fresh ad batch per product every --interval.
+#
+# product_image is optional. If omitted, inputs/product.png is used.
+
+- name: Matcha protein stick
+  benefits: 30g plant protein, zero crash, tastes like dessert
+  product_image: inputs/products/matcha.png
+
+- name: Hydration drops
+  benefits: 2x electrolytes of the leading sports drink, zero sugar, real lemon
+  product_image: inputs/products/drops.png
+
+- name: Sleep gummies
+  benefits: melatonin-free, L-theanine + magnesium glycinate, wake without grogginess
+  product_image: inputs/products/sleep.png
