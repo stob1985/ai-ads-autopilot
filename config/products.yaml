@@ -1,0 +1,258 @@
+# =============================================================================
+# HORMONE HARMONIA™ - AUTOPILOT ADS KÉPGENERÁTOR KONFIGURÁCIÓ
+# =============================================================================
+# Termék: Hormone Harmonia™ (72 db vegán kapszula)
+# Weboldal: https://vitalharmony.net/products/hormone-harmonia-visszakapod-regi-onmagad-72-db-vegan-kapszula
+# Célközönség: 40-65 éves nők, perimenopauza/menopauza, hormonális egyensúlyhiány
+# =============================================================================
+
+global_settings:
+  brand_name: "Vital Harmony"
+  product_line: "Hormone Harmonia"
+  language: "hu-HU"
+  market: "HU"
+  currency: "HUF"
+  tone: "empathetic, conversational, native-feeling, woman-to-woman"
+
+  # Sikeres hirdetési stílusok (Becca Fisher modell alapján)
+  ad_styles:
+    - "native_ugc"           # User-generated content jellegű
+    - "before_after"         # Hónapok közti átalakulás
+    - "diagram_callouts"     # Test diagramja problémás területekkel
+    - "problem_reveal"       # "Nem zsír volt - hanem kortizol"
+    - "personal_story"       # Becca Fisher style storytelling
+
+  # Mindig kerülni kell
+  avoid:
+    - "túl fényes, reklámszerű képek"
+    - "mosolygó modellek üres háttérben"
+    - "túl tökéletes/Photoshop-os bőr"
+    - "férfi modellek"
+    - "túl fiatal nők (30 alatt)"
+
+# =============================================================================
+# TERMÉKEK
+# =============================================================================
+
+products:
+  - id: "hormone_harmonia_72"
+    name: "Hormone Harmonia™"
+    full_name: "Hormone Harmonia – Visszakapod a régi önmagad"
+    sku: "HH-72-VEGAN"
+    image_path: "inputs/products/hormone_harmonia_box.png"
+    secondary_images:
+      - "inputs/products/hormone_harmonia_bottle.png"
+      - "inputs/products/hormone_harmonia_capsules.png"
+      - "inputs/products/hormone_harmonia_box_bottle.png"
+
+    # =========================================================================
+    # ALAPVETŐ INFORMÁCIÓK
+    # =========================================================================
+    package: "72 db vegán kapszula (24 napra)"
+    daily_dose: "3 kapszula naponta"
+    capsule_color: "fehér / krémszínű"
+    bottle_color: "borostyán üveg, rózsaszín kupakkal"
+    box_color: "fehér, japán hullám mintával"
+
+    # =========================================================================
+    # FŐ HATÁSOK / BENEFITS (rangsorolva fontosság szerint)
+    # =========================================================================
+    primary_benefits:
+      - id: "weight_loss"
+        priority: 1
+        text: "Hormonális hasi háj csökkentése"
+        emotional_text: "Lapos has, ami régen természetes volt"
+        keywords: ["kortizol has", "puffadás", "hormonális hasi zsír", "felfújt has"]
+
+      - id: "sleep_quality"
+        priority: 2
+        text: "Mély, nyugodt alvás visszaszerzése"
+        emotional_text: "Végre átaludt éjszakák, hajnali pánik nélkül"
+        keywords: ["3 órás ébredés", "alvászavar", "menopauza alvás"]
+
+      - id: "identity_recovery"
+        priority: 3
+        text: "A régi önmagad visszaszerzése"
+        emotional_text: "Újra felismered magad a tükörben"
+        keywords: ["régi én", "tükörben idegen", "önazonosság"]
+
+      - id: "mood_balance"
+        priority: 4
+        text: "Hangulati stabilitás, kevesebb ingerlékenység"
+        emotional_text: "Nyugodt anya, szerethető társ"
+        keywords: ["hangulatingadozás", "ingerlékenység", "düh"]
+
+      - id: "energy_restoration"
+        priority: 5
+        text: "Energia és vitalitás visszatérése"
+        emotional_text: "Reggeli kimerültség helyett friss kezdés"
+        keywords: ["fáradtság", "kimerültség", "krónikus fáradtság"]
+
+      - id: "hot_flash_relief"
+        priority: 6
+        text: "Hőhullámok és éjszakai izzadás csökkentése"
+        emotional_text: "Száraz, nyugodt éjszakák"
+        keywords: ["hőhullám", "éjszakai izzadás", "menopauza tünetek"]
+
+    # =========================================================================
+    # ÖSSZETEVŐK
+    # =========================================================================
+    key_ingredients:
+      - "Ashwagandha (KSM-66®)"
+      - "Maca gyökér"
+      - "Barátcserje (Vitex)"
+      - "Vad jamgyökér"
+      - "Brokkoli kivonat"
+      - "Berberin"
+      - "Gymnema Sylvestre"
+      - "Rozmaring kivonat"
+      - "Rhodiola"
+      - "Kamilla"
+      - "Vörös here"
+      - "B-vitamin komplex"
+
+    ingredient_visuals:
+      style: "természetes, organikus, gyógynövényes"
+      colors: ["zöld", "barnás", "krémszín", "rózsaszín", "lila"]
+
+    # =========================================================================
+    # AKCIÓK / AJÁNLATOK
+    # =========================================================================
+    offers:
+      - name: "2+1 AKCIÓ"
+        description: "Vegyél 2 dobozt, 1-et ingyen kapsz"
+        savings: "26.900 Ft"
+        urgency: "Limitált készlet - csak amíg tart"
+
+      - name: "INGYENES SZÁLLÍTÁS"
+        description: "24 órán belüli kiszállítás"
+
+      - name: "30 NAPOS GARANCIA"
+        description: "Pénz-visszafizetési garancia"
+
+# =============================================================================
+# CÉLKÖZÖNSÉG / AVATAR PROFIL
+# =============================================================================
+
+target_audience:
+  primary_avatar:
+    name: "Erika"
+    age_range: "45-60"
+    gender: "female_only"
+
+    visual_style:
+      ethnicity: "European/Hungarian"
+      hair: "natural, mid-length, sometimes graying"
+      skin: "natural, with realistic imperfections (slight wrinkles, redness, puffiness)"
+      body: "average, realistic - NOT model-thin, NOT idealized"
+      clothing: "everyday, casual - tank tops, t-shirts, casual home clothes"
+      makeup: "minimal or no makeup"
+      setting: "real home environments - kitchen, bedroom, mirror, bathroom"
+
+    emotional_states:
+      - "tired but determined"
+      - "frustrated, looking in mirror"
+      - "transformation - before sad, after relieved"
+      - "natural, candid - NOT posed/smiling fake"
+
+    contexts:
+      - "tükör előtt állva (frontal mirror shot)"
+      - "konyhában, reggel"
+      - "hálószobában, fáradtan"
+      - "ruhák próbálása"
+      - "családi környezet"
+      - "munkahelyi stressz"
+
+# =============================================================================
+# MARKETING ANGLE-EK
+# =============================================================================
+
+marketing_angles:
+
+  - id: "cortisol_belly"
+    priority: 1
+    name: "Nem zsír - hanem kortizol"
+    headline: "NEM ZSÍR VOLT - HANEM VÉGIG IS KORTIZOL"
+
+  - id: "3am_wakeup"
+    priority: 2
+    name: "Hajnali pánik"
+    headline: "Ha hajnal 3-kor kalapál a szíved..."
+
+  - id: "mirror_stranger"
+    priority: 3
+    name: "Tükörben idegen"
+    headline: "Nem ismersz magadra a tükörben?"
+
+  - id: "hiding_body"
+    priority: 4
+    name: "Bő pólóban bujkálok"
+    headline: "Júliusban kapucnis pulóverben járok..."
+
+  - id: "doctor_dismissed"
+    priority: 5
+    name: "Az orvos azt mondta, csak stresszes vagyok"
+    headline: "Az orvosom szerint minden rendben van..."
+
+  - id: "family_breakdown"
+    priority: 6
+    name: "Idegen lettem a saját családomban"
+    headline: "A férjem már nem érint úgy, mint régen"
+
+# =============================================================================
+# CTA & SZÖVEGES OVERLAY-EK
+# =============================================================================
+
+text_overlays:
+
+  hooks:
+    - "NEM ZSÍR VOLT - HANEM VÉGIG IS KORTIZOL"
+    - "EZEK NEM HIBÁK... EZ MAGAS KORTIZOL"
+    - "Ha 3 órakor kalapál a szíved..."
+    - "Hová tűnt a régi te?"
+    - "Júliusban is kapucnis pulóverben járok..."
+    - "Az orvos azt mondta: 'csak stressz'"
+    - "A férjem már nem érint úgy, mint régen"
+    - "Régen lapos volt. Most 6 hónaposnak tűnök."
+    - "Évek óta küzdök. Aztán rájöttem..."
+    - "8 hónap után újra felismerem magam"
+
+  benefit_callouts:
+    - "VÉGRE ÁTALSZOM AZ ÉJSZAKÁT"
+    - "ELTŰNT A PUFFADÁS"
+    - "VISSZAJÖTT AZ ENERGIÁM"
+    - "ÚJRA FELISMEREM MAGAM"
+    - "A FÉRJEM ÉSZREVETTE"
+    - "8 KILÓ MÍNUSZ 3 HÓNAP ALATT"
+
+  ctas:
+    primary: "MEGRENDELEM MOST →"
+    secondary: "TUDJ MEG TÖBBET →"
+    urgency: "2+1 AKCIÓ - CSAK MOST!"
+    risk_reversal: "30 NAPOS GARANCIA"
+
+  trust_badges:
+    - "❤️ 2,8 MILLIÓ NŐ EGYETÉRT"
+    - "⭐ 4,7/5 - 373 értékelés"
+    - "🌿 100% VEGÁN"
+    - "✓ GMO-MENTES"
+    - "🇭🇺 MAGYAR ÜGYFÉLSZOLGÁLAT"
+
+# =============================================================================
+# KIMENETI SPECIFIKÁCIÓ
+# =============================================================================
+
+output_specifications:
+  variants_per_angle: 5
+  total_initial_creatives: 30
+
+  testing_priority:
+    1: "cortisol_belly + diagram_callouts"
+    2: "cortisol_belly + before_after_progression"
+    3: "3am_wakeup + native_ugc"
+    4: "mirror_stranger + mirror_reflection"
+    5: "hiding_body + native_ugc"
+
+  file_naming:
+    pattern: "{angle_id}_{template}_{variant_n}_{date}.png"
+    example: "cortisol_belly_diagram_callouts_v1_2026-04-29.png"
