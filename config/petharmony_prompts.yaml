@@ -1,0 +1,219 @@
+# =============================================================================
+# PETHARMONY ALLERGIA - KÉPGENERÁLÁSI PROMPTOK
+# =============================================================================
+# 5 nyerő variáció UGC stílusban. Minden full_prompt közvetlenül a Gemini-be megy.
+# A termékkép referenciaképként (PetHarmony allergia tégely) kerül minden híváshoz.
+# =============================================================================
+
+# =============================================================================
+# VAR 1: DRÁMAI ELŐTTE-UTÁNA — visual proof, legjobb thumb-stop
+# =============================================================================
+
+prompt_001_before_after:
+  variation: "before_after"
+  hook_type: "visual_proof"
+  emotional_trigger: "shock + hope"
+  phase: 1
+
+  full_prompt: |
+    Split-screen UGC smartphone photo comparison, 1:1 square format,
+    vertical white divider down the middle.
+
+    LEFT SIDE (BEFORE): Close-up of a golden retriever's belly and inner
+    thighs showing severe red inflamed allergic skin. Visible scratching
+    damage, raw irritated patches, missing fur in spots. Dog being held
+    by owner's hands (sleeve of grey hoodie visible). The dog looks
+    distressed but NOT graphic — just clearly uncomfortable.
+    Natural home indoor lighting (slightly dim), iPhone photo quality,
+    a touch grainy. Real Hungarian apartment setting in background
+    (slightly out of focus).
+
+    RIGHT SIDE (AFTER): Same golden retriever 14 days later, calm and
+    relaxed, healthy shiny coat, healed skin (no redness), fur regrown.
+    Owner gently petting the dog, dog looks content. Same home setting,
+    natural daylight from window. Authentic smartphone photo, NOT staged
+    professional photography.
+
+    CENTER DIVIDER: Bold black sans-serif text "14 NAP" stacked vertically.
+
+    BOTTOM RIGHT CORNER (small): PetHarmony product jar visible — black
+    cap, white label with blue dog graphic and "ALLERGIA" text.
+
+    TOP TEXT (white sans-serif on dark band, Hungarian): "EZ TÖRTÉNT 14 NAP ALATT"
+    BOTTOM TEXT (smaller, white): "Természetes plazma-formulával"
+
+    STYLE: Authentic before/after, looks like a real owner's testimonial post.
+    NOT polished commercial — feels like a friend's Facebook update.
+
+  negative_prompt: |
+    NO professional advertising photography, NO studio lighting, NO blood,
+    NO open wounds, NO graphic injury, NO clean white studio background,
+    NO multiple dogs, NO stock photo aesthetic, NO airbrushed/edited look.
+
+# =============================================================================
+# VAR 2: AGGÓDÓ GAZDI PILLANAT — empathy + curiosity
+# =============================================================================
+
+prompt_002_concerned_owner:
+  variation: "concerned_owner"
+  hook_type: "emotional_relatability"
+  emotional_trigger: "empathy + curiosity"
+  phase: 1
+
+  full_prompt: |
+    Authentic UGC smartphone photo, slightly out of focus, candid moment.
+    Hungarian woman in her late 30s sitting on living room floor at night,
+    no makeup, tired weary expression, dark circles under eyes. She is
+    holding her medium-sized dog (mixed breed) on her lap, gently looking
+    at the dog's belly which has visible red irritated allergic skin patches
+    (NOT graphic, just clearly inflamed).
+
+    Setting: Real Hungarian apartment living room. Dim warm lamp light from
+    a single floor lamp. Soft blanket on couch behind them, regular sofa,
+    bookshelf or family photos in soft-focus background. Slightly cluttered
+    real-home feel.
+
+    Mood: The woman looks genuinely worried but tender. The dog looks tired
+    and uncomfortable but trusting. This is a quiet 11pm moment, not staged.
+
+    Camera: Phone photo aesthetic, slightly tilted angle, real-feeling.
+    Looks like a partner or family member took the picture quietly from the doorway.
+
+    TOP TEXT (white sans-serif, simple, Hungarian): "3 ÉJSZAKA NEM ALUDTAM..."
+    BOTTOM TEXT (smaller): "Aztán találtam valamit, ami működött"
+
+    BOTTOM RIGHT (small, soft focus): PetHarmony jar on coffee table.
+
+    STYLE: Documentary, intimate, real. Like a friend's late-night Instagram story.
+    NOT professional dog photography, NOT a polished commercial.
+
+  negative_prompt: |
+    NO professional photo, NO studio lighting, NO posed/staged composition,
+    NO young model under 25, NO heavy makeup, NO commercial polish,
+    NO graphic skin injury, NO stock photo feel.
+
+# =============================================================================
+# VAR 3: TERMÉK BEMUTATÓ UGC STÍLUSBAN — trust + testimonial
+# =============================================================================
+
+prompt_003_product_hero_ugc:
+  variation: "product_hero_ugc"
+  hook_type: "social_proof"
+  emotional_trigger: "trust + testimonial"
+  phase: 1
+
+  full_prompt: |
+    Authentic UGC smartphone photo on a kitchen counter, casual home setting.
+
+    Subject: A woman's hand (visible thumb and index finger, natural skin,
+    no manicure) holding the PetHarmony Allergia jar at chest height,
+    showing it slightly tilted toward the camera. The product label is
+    clearly readable: "PetHarmony ALLERGIA" with the blue dog graphic.
+
+    Setting: Real Hungarian kitchen — wooden counter, morning natural light
+    from a side window. Visible in soft-focus background: a coffee mug
+    (half-full), a fruit bowl, possibly a kitchen towel. A medium-sized
+    dog's head visible at the bottom of the frame, looking up curiously at
+    the jar (hopeful expression, healthy coat).
+
+    Composition: Slightly tilted, NOT perfectly centered. Looks like the
+    woman is showing the product to a friend on FaceTime or a quick story.
+
+    Quality: iPhone photo, slight lens flare from the morning sun, natural
+    color, NOT color-graded.
+
+    TOP TEXT (white on subtle dark band, Hungarian): "EZ MENTETTE MEG A KUTYÁMAT"
+    BOTTOM TEXT (smaller): "3 hét és vége volt a vakarózásnak"
+
+    STYLE: Real testimonial moment. NOT a commercial product shot.
+    Feels like a satisfied owner sharing what worked.
+
+  negative_prompt: |
+    NO studio product shot, NO white seamless background, NO professional
+    lighting, NO perfect manicure, NO model-pretty hand, NO commercial polish.
+
+# =============================================================================
+# VAR 4: BOLDOG KUTYA KINT — joy + transformation outcome
+# =============================================================================
+
+prompt_004_happy_dog_outdoor:
+  variation: "happy_dog_outdoor"
+  hook_type: "transformation_outcome"
+  emotional_trigger: "joy + transformation"
+  phase: 1
+
+  full_prompt: |
+    Authentic UGC smartphone photo of a happy, healthy golden retriever
+    running through a Hungarian backyard or small neighborhood park.
+
+    Subject: Golden retriever mid-stride, ears flopping, mouth slightly
+    open in a happy "smile," shiny coat, NO visible skin issues, energetic
+    and free. The dog is the clear focus.
+
+    Setting: Sunny mid-morning, green grass, a few autumn leaves on the
+    ground, a normal Hungarian residential backyard with a wooden fence
+    or low hedge in the background. Slightly out of focus suburban houses
+    or trees in the distance.
+
+    Camera: Owner's perspective, slightly low angle (squatting down to
+    dog level), captured mid-action so there's a tiny bit of motion blur
+    on the legs. Real iPhone photo quality, NOT a professional pet
+    photographer's shot.
+
+    Lighting: Natural sunlight, warm golden hour or bright morning,
+    slight lens flare.
+
+    TOP TEXT (white sans-serif on subtle dark gradient, Hungarian): "VÉGRE ÚJRA SZALADGÁL"
+    BOTTOM TEXT (smaller): "Vakarózás nélkül"
+
+    BOTTOM RIGHT (small): PetHarmony jar inset corner.
+
+    STYLE: Joyful candid moment. Looks like a proud owner's social media post.
+    NOT a polished pet food commercial.
+
+  negative_prompt: |
+    NO professional pet photography, NO studio quality, NO multiple dogs,
+    NO unrealistic-perfect dog pose, NO commercial dog-food-ad aesthetic,
+    NO over-saturated colors.
+
+# =============================================================================
+# VAR 5: PROBLÉMA KÖZELKÉP — pattern interrupt, recognition
+# =============================================================================
+
+prompt_005_problem_closeup:
+  variation: "problem_closeup"
+  hook_type: "pattern_interrupt"
+  emotional_trigger: "recognition + curiosity_gap"
+  phase: 1
+
+  full_prompt: |
+    Extreme close-up UGC smartphone macro photo of a dog's front paw
+    being licked obsessively by the dog itself.
+
+    Subject: Dog's paw and lower leg in sharp focus. Visible signs of
+    chronic licking: rusty-brown saliva staining on the white/cream fur,
+    raw pinkish skin between the toes, slight irritation. The dog's
+    tongue is visible mid-lick. NOT graphic — relatable, recognizable
+    "my dog does this" moment.
+
+    Background: Hungarian living room, blurred — visible in soft focus:
+    a beige rug, the edge of a couch, perhaps a slipper or chew toy.
+    Natural indoor afternoon lighting from a side window.
+
+    Camera: Phone macro, very close (within 20 cm), slightly imperfect
+    focus, real iPhone photo quality. Owner's perspective — they noticed
+    this and pulled out their phone.
+
+    Mood: Relatable, slightly disturbing-but-mundane, recognition-trigger.
+    The viewer should think: "Oh god, my dog does that too."
+
+    TOP TEXT (large white sans-serif on subtle dark band, Hungarian): "ISMERŐS?"
+    BOTTOM TEXT (smaller): "Megmondom, miért NEM múlik el"
+
+    STYLE: Documentary close-up, NOT commercial. Feels like a Reddit post
+    or a friend showing you something on their phone.
+
+  negative_prompt: |
+    NO graphic injury, NO blood, NO professional macro photography,
+    NO studio lighting, NO clean clinical look, NO multiple dogs,
+    NO over-edited / over-sharpened image.
