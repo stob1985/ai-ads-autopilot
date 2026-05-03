@@ -63,16 +63,18 @@ def build_filename(pid: str, entry: dict, variant: int) -> str:
 def generate_one(
     client: genai.Client,
     prompt_text: str,
-    product_bytes: bytes,
-    product_mime: str,
+    product_bytes: bytes | None,
+    product_mime: str | None,
     aspect_ratio: str,
 ) -> bytes | None:
+    contents: list = []
+    if product_bytes and product_mime:
+        contents.append(types.Part.from_bytes(data=product_bytes, mime_type=product_mime))
+    contents.append(prompt_text)
+
     resp = client.models.generate_content(
         model=MODEL,
-        contents=[
-            types.Part.from_bytes(data=product_bytes, mime_type=product_mime),
-            prompt_text,
-        ],
+        contents=contents,
         config=types.GenerateContentConfig(
             response_modalities=["TEXT", "IMAGE"],
             image_config=types.ImageConfig(aspect_ratio=aspect_ratio),
