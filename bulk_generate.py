@@ -34,6 +34,8 @@ def main() -> None:
     p.add_argument("--prompts", type=Path, required=True, help="YAML of prompt_id -> {full_prompt, angle, template, phase}")
     p.add_argument("--product-image", type=Path, required=True, help="Reference product image (passed to every Gemini call)")
     p.add_argument("--phase", type=int, default=None, help="Only run prompts with this phase number")
+    p.add_argument("--avatar", default=None, help="Only run prompts with this avatar tag")
+    p.add_argument("--compliance", choices=["compliant", "aggressive"], default=None, help="Only run prompts with this compliance tag")
     p.add_argument("--only", action="append", default=None, help="Run only these prompt ids (repeatable)")
     p.add_argument("--variants", type=int, default=1, help="How many variants per prompt (default 1)")
     p.add_argument("--aspect-ratio", default="1:1", choices=["1:1", "4:5", "9:16", "16:9", "3:4", "4:3"], help="Output aspect ratio (default 1:1)")
@@ -49,7 +51,7 @@ def main() -> None:
         sys.exit(2)
 
     prompts = bulk_image_gen.load_prompts(args.prompts)
-    selected = bulk_image_gen.filter_prompts(prompts, args.phase, args.only)
+    selected = bulk_image_gen.filter_prompts(prompts, args.phase, args.only, args.avatar, args.compliance)
     if not selected:
         utils.console.print("[yellow]No prompts matched the filter.[/yellow]")
         sys.exit(1)

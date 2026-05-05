@@ -42,18 +42,31 @@ def filter_prompts(
     prompts: dict[str, dict],
     phase: int | None,
     only: list[str] | None,
+    avatar: str | None = None,
+    compliance: str | None = None,
 ) -> dict[str, dict]:
     if only:
         missing = [o for o in only if o not in prompts]
         if missing:
             raise ValueError(f"Unknown prompt id(s): {missing}")
         return {k: v for k, v in prompts.items() if k in only}
+    out = prompts
     if phase is not None:
-        return {k: v for k, v in prompts.items() if v.get("phase") == phase}
-    return prompts
+        out = {k: v for k, v in out.items() if v.get("phase") == phase}
+    if avatar:
+        out = {k: v for k, v in out.items() if v.get("avatar") == avatar}
+    if compliance:
+        out = {k: v for k, v in out.items() if v.get("compliance") == compliance}
+    return out
 
 
 def build_filename(pid: str, entry: dict, variant: int) -> str:
+    # If the prompt is tagged with a compliance/avatar (e.g. Skintific), use a
+    # tidy id-based name; otherwise fall back to the legacy angle_template form.
+    if entry.get("compliance") or entry.get("avatar"):
+        if variant == 1:
+            return f"{pid}.png"
+        return f"{pid}_v{variant}.png"
     angle = entry.get("angle", "angle")
     template = entry.get("template", "tpl")
     date = datetime.now().strftime("%Y-%m-%d")
@@ -130,10 +143,14 @@ def run_bulk(
                 continue
 
             fname = build_filename(pid, entry, v)
-            out = run_dir / fname
+            subdir = entry.get("compliance")
+            out_dir = run_dir / subdir if subdir else run_dir
+            out_dir.mkdir(parents=True, exist_ok=True)
+            out = out_dir / fname
             out.write_bytes(img)
-            console.print(f"  [green]✓[/green] {fname}")
-            manifest["results"].append({"prompt_id": pid, "variant": v, "file": fname})
+            rel = str(out.relative_to(run_dir))
+            console.print(f"  [green]✓[/green] {rel}")
+            manifest["results"].append({"prompt_id": pid, "variant": v, "file": rel})
 
             if sleep_between:
                 time.sleep(sleep_between)

@@ -1,0 +1,280 @@
+# =============================================================================
+# SKINTIFIC ALASKA VOLCANO PORE CLAY STICK
+# 50 Meta Feed Ad Creatives (1:1, 1080x1080)
+# =============================================================================
+# Source: user-supplied. This is the original strategic brief, kept verbatim.
+# The bulk pipeline reads the flattened version at config/skintific_prompts.yaml.
+# =============================================================================
+
+global_settings:
+  aspect_ratio: "1:1"
+  resolution: "1080x1080"
+  product_image: "inputs/products/alaska_volcano_stick.png"
+  brand_lock: "Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label with 'SKINTIFIC ALASKA VOLCANO' text, 40g/1.41 FL.OZ"
+  negative_prompt: "no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no AI artifacts, no watermarks"
+  style_base: "professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality"
+
+# AVATAR 1: EFFICIENT PERFECTIONIST (17 images, 28-42, urban professional)
+avatar_1_efficient_perfectionist:
+
+  # COMPLIANT (10)
+  - id: "ep_compliant_01"
+    angle: "10-minute timer hero"
+    prompt: "Modern minimalist bathroom counter, marble surface, the Skintific Alaska Volcano clay stick standing upright next to a sleek digital timer showing '10:00', morning light from window, neutral beige and white tones, MacBook visible blurred in background suggesting work-from-home, text overlay space at top, clean composition, 1:1 aspect ratio"
+    text_overlay_suggestion: "10 minutes. That's it."
+
+  - id: "ep_compliant_02"
+    angle: "Coffee + skincare multitask"
+    prompt: "Woman 32 years old wearing white silk pajamas applying clay stick to her face in modern kitchen, espresso machine brewing in background, minimal makeup, natural confidence, soft morning light, neutral palette, the Skintific gray clay stick visible in her hand, 1:1 composition"
+    text_overlay_suggestion: "While my coffee brews."
+
+  - id: "ep_compliant_03"
+    angle: "Calendar overlay efficiency"
+    prompt: "Flatlay overhead shot on white desk: Skintific Alaska Volcano clay stick, open paper planner with handwritten schedule, sleek black pen, small cup of matcha, gold watch, clean Scandinavian aesthetic, soft daylight, 1:1 aspect ratio"
+    text_overlay_suggestion: "Skincare that fits the schedule."
+
+  - id: "ep_compliant_04"
+    angle: "Application technique close-up"
+    prompt: "Extreme close-up of woman's hand holding Skintific clay stick applying smooth gray clay line on cheek, professional studio lighting, focus on technique and product texture, clean white background, hand model with neutral manicure, 1:1 composition"
+    text_overlay_suggestion: "Glides on. No mess."
+
+  - id: "ep_compliant_05"
+    angle: "Esthetician authority"
+    prompt: "Woman 35 in white esthetician uniform in clean modern spa setting, holding Skintific Alaska Volcano clay stick toward camera, soft professional lighting, slight smile, hair pulled back, looks like trusted skincare expert, neutral background, 1:1"
+    text_overlay_suggestion: "What I actually recommend."
+
+  - id: "ep_compliant_06"
+    angle: "Desk drawer essentials"
+    prompt: "Open office desk drawer flat-lay shot from above: Skintific clay stick alongside AirPods, lipstick, hand cream, mints, organized minimalist style, polished walnut drawer, soft top-down lighting, 1:1 composition"
+    text_overlay_suggestion: "Office bag essentials."
+
+  - id: "ep_compliant_07"
+    angle: "Bathroom shelf curation"
+    prompt: "Minimalist bathroom shelf with curated skincare lineup: Skintific Alaska Volcano clay stick prominently in center, surrounded by 4-5 high-end neutral-toned skincare bottles, marble shelf, soft window light, spa-like aesthetic, 1:1"
+    text_overlay_suggestion: "The shelf earned its spot."
+
+  - id: "ep_compliant_08"
+    angle: "Texture swatch macro"
+    prompt: "Macro photography of gray Skintific Alaska Volcano clay swatch on clean white surface, smooth creamy texture visible, the clay stick laying next to swatch, soft directional lighting showing material quality, no skin visible, just product, 1:1"
+    text_overlay_suggestion: "Smoother than it looks."
+
+  - id: "ep_compliant_09"
+    angle: "Side-by-side format comparison"
+    prompt: "Split composition: left side shows messy traditional clay mask jar with brush and clay scattered on counter, right side shows clean Skintific clay stick standing tall on pristine surface, dramatic lighting contrast between chaos and order, 1:1 aspect ratio"
+    text_overlay_suggestion: "Same idea. Better execution."
+
+  - id: "ep_compliant_10"
+    angle: "Subtle confidence portrait"
+    prompt: "Woman 38 with clear skin in soft turtleneck, holding Skintific clay stick casually near her face, warm natural lighting, content expression not exaggerated smile, professional but approachable, blurred home office background, 1:1"
+    text_overlay_suggestion: "10 minutes I don't skip."
+
+  # AGGRESSIVE (7)
+  - id: "ep_aggressive_01"
+    angle: "Timer countdown urgency"
+    prompt: "Dramatic dark bathroom scene, woman 30 with mask applied checking large red digital countdown timer showing '00:30', moody lighting, intense focus on results timing, Skintific clay stick visible on counter, 1:1"
+    text_overlay_suggestion: "30 seconds left until clear pores."
+
+  - id: "ep_aggressive_02"
+    angle: "Before/after split (subtle)"
+    prompt: "Side-by-side split portrait of same woman 35: left side shows visible enlarged pores on nose area in harsh lighting, right side shows refined smooth nose skin in soft lighting, both photos professional quality, Skintific clay stick centered between, 1:1"
+    text_overlay_suggestion: "Pores. Refined."
+
+  - id: "ep_aggressive_03"
+    angle: "Power morning routine reveal"
+    prompt: "Aerial shot of bathroom counter: Skintific clay stick at center surrounded by power-routine items - black coffee, supplements, planner with red checkmarks, dark moody lighting with single overhead light, 1:1"
+    text_overlay_suggestion: "Non-negotiables."
+
+  - id: "ep_aggressive_04"
+    angle: "Pore close-up extraction style"
+    prompt: "Extreme macro of cheek skin showing visible pores being treated with gray clay coverage, Skintific stick applying clay to skin, scientific clean aesthetic, dramatic side lighting emphasizing texture, 1:1"
+    text_overlay_suggestion: "Goes deep."
+
+  - id: "ep_aggressive_05"
+    angle: "Stress to glow narrative"
+    prompt: "Split scene: left shows woman exhausted at computer late at night with stressed skin, right shows same woman next morning with clear glowing skin holding Skintific clay stick, transformation feel, 1:1"
+    text_overlay_suggestion: "Burned out → bounced back."
+
+  - id: "ep_aggressive_06"
+    angle: "Result-driven testimonial frame"
+    prompt: "Woman 33 holding Skintific clay stick close to camera with confident look, beautifully clear skin in foreground sharp focus, magazine-quote-style typography space on right side, professional editorial lighting, 1:1"
+    text_overlay_suggestion: "I stopped getting facials."
+
+  - id: "ep_aggressive_07"
+    angle: "Premium ritual mood"
+    prompt: "Dark luxurious bathroom, single candle lit, Skintific clay stick on black marble next to crystal water glass, dramatic chiaroscuro lighting, premium spa aesthetic, sense of indulgence, 1:1"
+    text_overlay_suggestion: "10 minutes. For me."
+
+# AVATAR 2: SENSITIVE SKIN SURVIVOR (17 images, 22-38, reactive skin)
+avatar_2_sensitive_skin:
+
+  # COMPLIANT (10)
+  - id: "ss_compliant_01"
+    angle: "Gentle reveal portrait"
+    prompt: "Woman 28 with naturally pink-toned reactive looking skin, soft genuine relieved smile, holding Skintific clay stick near face, warm window lighting, no heavy makeup, freckles visible, authentic untouched skin, 1:1 composition"
+    text_overlay_suggestion: "Finally one that doesn't burn."
+
+  - id: "ss_compliant_02"
+    angle: "Probiotic ingredient highlight"
+    prompt: "Artistic flat-lay: Skintific Alaska Volcano clay stick centered on cream linen cloth, surrounded by green leaves, small jar of probiotic culture, sliced aloe vera, soft natural lighting, botanical apothecary aesthetic, 1:1"
+    text_overlay_suggestion: "Probiotic complex. Not harsh acids."
+
+  - id: "ss_compliant_03"
+    angle: "Sensitive skin community"
+    prompt: "Woman 25 with visible rosacea-prone skin in cozy sweater holding Skintific clay stick, gentle natural lighting, soft beige and pink tones, content expression, looks relatable not model-perfect, 1:1"
+    text_overlay_suggestion: "Rosacea-prone. Still works."
+
+  - id: "ss_compliant_04"
+    angle: "Calm bathroom moment"
+    prompt: "Quiet bathroom scene with steam from warm shower, Skintific clay stick on counter next to soft white washcloth, dried lavender, dewy mirror, peaceful atmosphere, 1:1"
+    text_overlay_suggestion: "My skin can finally breathe."
+
+  - id: "ss_compliant_05"
+    angle: "No-irritation promise visual"
+    prompt: "Macro extreme close-up of clear calm cheek skin with subtle gray clay smear at edge of frame, Skintific clay stick blurred in background, lighting emphasizes skin calmness no redness, 1:1"
+    text_overlay_suggestion: "No tightness. No redness."
+
+  - id: "ss_compliant_06"
+    angle: "Self-care soft scene"
+    prompt: "Woman 30 reading book in cozy chair with clay mask applied evenly to face, holding ceramic mug, blanket on lap, warm afternoon light, comfortable relaxed posture, Skintific clay stick on side table, 1:1"
+    text_overlay_suggestion: "10 quiet minutes."
+
+  - id: "ss_compliant_07"
+    angle: "Gentle clay swatch botanical"
+    prompt: "Smooth gray clay swatch on white marble surrounded by green eucalyptus leaves and water droplets, Skintific clay stick laying horizontally next to swatch, soft natural daylight, fresh spa feel, 1:1"
+    text_overlay_suggestion: "Gentle. By design."
+
+  - id: "ss_compliant_08"
+    angle: "Eczema-friendly visual"
+    prompt: "Hand close-up applying clay stick to forearm to demonstrate gentleness, slightly fair skin tone visible, soft lighting, focus on the gentle smooth application, Skintific brand label visible, 1:1"
+    text_overlay_suggestion: "Patch test approved."
+
+  - id: "ss_compliant_09"
+    angle: "Ingredient transparency"
+    prompt: "Educational style flat-lay: Skintific clay stick at center, small labeled vials around it showing 'Glycolic Acid', 'Probiotic Complex', 'Collagen', clean white background, scientific aesthetic, 1:1"
+    text_overlay_suggestion: "Three ingredients. No fillers."
+
+  - id: "ss_compliant_10"
+    angle: "Trust testimonial frame"
+    prompt: "Woman 27 with sensitive looking thin skin, soft genuine emotion of relief, holding Skintific clay stick, warm cream background, magazine portrait style, space for testimonial quote on side, 1:1"
+    text_overlay_suggestion: "Year three. Still gentle."
+
+  # AGGRESSIVE (7)
+  - id: "ss_aggressive_01"
+    angle: "Reactive skin before/after"
+    prompt: "Split portrait: left shows woman 26 with visibly red irritated reactive skin and small breakouts, right shows same woman with calm even-toned clear skin, Skintific clay stick visible between halves, 1:1"
+    text_overlay_suggestion: "Angry → calm."
+
+  - id: "ss_aggressive_02"
+    angle: "Tear of relief emotional"
+    prompt: "Close portrait of woman 29 with single tear of joy on cheek, soft smile, holding Skintific clay stick, emotional vulnerable lighting, story of finding the right product, 1:1"
+    text_overlay_suggestion: "I cried. It actually worked."
+
+  - id: "ss_aggressive_03"
+    angle: "Failed products graveyard"
+    prompt: "Flat-lay of crossed-out failed skincare products on dark surface: harsh scrubs, drying clay masks, alcohol toners all marked with red X, only Skintific Alaska Volcano clay stick standing upright with green checkmark, 1:1"
+    text_overlay_suggestion: "Survived 14 failures."
+
+  - id: "ss_aggressive_04"
+    angle: "Skin barrier visualization"
+    prompt: "Artistic close-up of cheek skin with thin protective glowing layer visible, Skintific clay stick beside, scientific yet beautiful aesthetic, ethereal lighting, 1:1"
+    text_overlay_suggestion: "Barrier intact. Pores clear."
+
+  - id: "ss_aggressive_05"
+    angle: "Dermatologist mention angle"
+    prompt: "Hand in white medical coat sleeve holding Skintific Alaska Volcano clay stick, clinical clean background, professional medical aesthetic, 1:1"
+    text_overlay_suggestion: "What my derm said yes to."
+
+  - id: "ss_aggressive_06"
+    angle: "Burning sensation contrast"
+    prompt: "Split visual: left shows red angry skin with flames graphic overlay representing burning, right shows calm cool skin with soft blue overlay, Skintific clay stick prominent, 1:1"
+    text_overlay_suggestion: "No burn. Just clean."
+
+  - id: "ss_aggressive_07"
+    angle: "Sensitive skin survivor portrait"
+    prompt: "Close emotional portrait of woman 31 with thin reactive skin showing visible capillaries, holding Skintific clay stick like trophy, soft lighting, real emotional documentary style, 1:1"
+    text_overlay_suggestion: "Sensitive skin. Strong opinion."
+
+# AVATAR 3: CONVENIENCE SEEKER (16 images, 23-35, traveler/parent)
+avatar_3_convenience_seeker:
+
+  # COMPLIANT (9)
+  - id: "cs_compliant_01"
+    angle: "Travel bag essentials"
+    prompt: "Open carry-on suitcase aerial view: Skintific clay stick visible alongside passport, sunglasses, neutral packing cubes, travel essentials, organized aesthetic, soft daylight, 1:1"
+    text_overlay_suggestion: "TSA-friendly. Drama-free."
+
+  - id: "cs_compliant_02"
+    angle: "Hotel bathroom moment"
+    prompt: "Sleek hotel bathroom counter, Skintific clay stick standing next to small toiletry bag, view of city through window in background, evening warm light, 1:1"
+    text_overlay_suggestion: "Room 412. Clear skin."
+
+  - id: "cs_compliant_03"
+    angle: "Mom in 5 minutes"
+    prompt: "Woman 32 in casual home clothes applying clay stick quickly in bathroom mirror, toddler toys visible blurred in background, real natural moment not staged, warm lighting, 1:1"
+    text_overlay_suggestion: "Between school runs."
+
+  - id: "cs_compliant_04"
+    angle: "Gym bag flat-lay"
+    prompt: "Aerial shot of gym bag contents on wood floor: Skintific clay stick, water bottle, towel, sneakers, AirPods, athleisure clothes, organized lifestyle, 1:1"
+    text_overlay_suggestion: "Post-workout. No mess."
+
+  - id: "cs_compliant_05"
+    angle: "Car console portability"
+    prompt: "Car center console with Skintific clay stick, sunglasses, key fob, coffee cup, dashboard view of road ahead, mobile lifestyle aesthetic, 1:1"
+    text_overlay_suggestion: "Lives in my car. Honestly."
+
+  - id: "cs_compliant_06"
+    angle: "One-handed application demo"
+    prompt: "Close-up of woman applying Skintific clay stick to face with one hand while phone/baby in other hand visible, real multitasking moment, natural home lighting, 1:1"
+    text_overlay_suggestion: "One hand. Done."
+
+  - id: "cs_compliant_07"
+    angle: "Format simplicity icon"
+    prompt: "Skintific clay stick floating cleanly against pastel blue background, single shadow, modern product photography, no jar, no brushes, minimalist composition emphasizing the stick format, 1:1"
+    text_overlay_suggestion: "No jar. No brush. No mess."
+
+  - id: "cs_compliant_08"
+    angle: "Office bathroom quick fix"
+    prompt: "Modern office bathroom mirror selfie POV style: Skintific clay stick held up, professional office attire, midday touch-up moment, fluorescent but flattering lighting, 1:1"
+    text_overlay_suggestion: "Lunch break skincare."
+
+  - id: "cs_compliant_09"
+    angle: "Backpack essentials top view"
+    prompt: "Open backpack flat-lay on cafe table: Skintific clay stick, laptop, notebook, water bottle, AirPods, modern professional carry, top-down shot, 1:1"
+    text_overlay_suggestion: "What's in my bag."
+
+  # AGGRESSIVE (7)
+  - id: "cs_aggressive_01"
+    angle: "Airplane bathroom mirror"
+    prompt: "Inside airplane lavatory with woman applying Skintific clay stick in tiny mirror, dramatic confined space lighting, real travel beauty hack moment, 1:1"
+    text_overlay_suggestion: "30,000 feet. Pores clear."
+
+  - id: "cs_aggressive_02"
+    angle: "Mom life chaos vs calm"
+    prompt: "Split scene: left shows messy bathroom counter with toys and chaos, right shows just the Skintific clay stick on clean counter representing peace, contrast story, 1:1"
+    text_overlay_suggestion: "10 minutes that are mine."
+
+  - id: "cs_aggressive_03"
+    angle: "Backseat parent hack"
+    prompt: "Mom 34 in driver's seat applying Skintific clay stick during school pickup line, casual real moment, warm afternoon light through windshield, 1:1"
+    text_overlay_suggestion: "Pickup line glow-up."
+
+  - id: "cs_aggressive_04"
+    angle: "Hotel before/after travel skin"
+    prompt: "Split scene: left shows tired travel-stressed skin in airplane lighting, right shows refreshed clear skin in hotel bathroom, Skintific clay stick prominent, 1:1"
+    text_overlay_suggestion: "Jet lag → fresh face."
+
+  - id: "cs_aggressive_05"
+    angle: "Stick vs jar mess war"
+    prompt: "Dramatic split: left side shows clay jar tipped over with mess everywhere, right side shows clean Skintific stick standing pristine, comedic contrast lighting, 1:1"
+    text_overlay_suggestion: "Jar girls, we need to talk."
+
+  - id: "cs_aggressive_06"
+    angle: "Festival/event quick prep"
+    prompt: "Woman 28 in concert outfit applying clay stick in car visor mirror before going out, evening dramatic lighting, energetic vibe, 1:1"
+    text_overlay_suggestion: "Pregame skincare."
+
+  - id: "cs_aggressive_07"
+    angle: "Husband-stealing convenience"
+    prompt: "Bathroom mirror POV with woman 30 and male partner both reaching for the same Skintific clay stick, playful moment, warm home lighting, comedic relatable, 1:1"
+    text_overlay_suggestion: "He keeps stealing it."
