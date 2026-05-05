@@ -1,908 +1,1794 @@
-ep_compliant_01:
+ugc_insec_01:
+  avatar: efficient_perfectionist
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: Pore discovery shock
+  expected_ctr: 5-7%
+  stop_mechanism: pore disgust trigger + mirror neuron shock
+  overlay_top: Why is no one talking about this 😭
+  overlay_bottom: B1G1 — $19.99
+  overlay_style: white sans-serif with black drop shadow (Instagram Story aesthetic)
+  full_prompt: 'Front-facing iPhone selfie in messy bathroom mirror, woman 32 white American with brown hair pulled back,
+    NO MAKEUP, leaning close to mirror with finger pointing to enlarged pores on her nose, mouth slightly open in disgusted-shocked
+    expression, harsh fluorescent overhead bathroom light flattening her skin, Skintific Alaska Volcano clay stick visible
+    held in other hand near collarbone, raw unfiltered phone photo with slight grain, candid 7am bathroom energy, towel hanging
+    blurred in background, NOT professional photography, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_insec_02:
+  avatar: sensitive_skin
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: Visible texture frustration
+  expected_ctr: 5-7%
+  stop_mechanism: skin texture insecurity + age-based fear
+  overlay_top: this skin texture??? at 27???
+  overlay_bottom: buy 1 get 1 — $19.99
+  overlay_style: yellow highlighter behind black bold handwritten text
+  full_prompt: 'iPhone selfie macro of woman 27 Latina cheek skin showing visible bumpy texture and small clogged pores in
+    harsh natural window light, finger from below pointing up to her cheek, raised eyebrow tired expression, no makeup, Skintific
+    Alaska Volcano clay stick blurred in foreground bottom corner being held, looks like she just got out of bed, raw phone
+    camera quality with motion blur, completely candid not posed, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_insec_03:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Bedside table 2am scroll discovery
+  expected_ctr: 4-6%
+  stop_mechanism: FOMO + discovery + relatable insomnia scroll
+  overlay_top: found this at 2am... ordered immediately
+  overlay_bottom: $19.99 + got 2 free shipping idk
+  overlay_style: TikTok caption style — white text with subtle drop shadow
+  full_prompt: 'iPhone POV from bed, woman 28 Black American in white t-shirt lying on pillow at night, dim bedside lamp light,
+    holding phone showing a Skintific Alaska Volcano clay stick product page on screen, surprised wide-eyes expression, hair
+    in messy bun, sheets visible, looks like 2am late-night scroll, harsh phone screen glow on face, raw bedroom selfie aesthetic,
+    slight grain, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_insec_04:
+  avatar: efficient_perfectionist
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: Magnifying mirror horror
+  expected_ctr: 5-7%
+  stop_mechanism: pore horror + relatable mistake
+  overlay_top: 'POV: you just bought a magnifying mirror'
+  overlay_bottom: B1G1 free — $19.99
+  overlay_style: Instagram Reels caption — white impact font
+  full_prompt: 'Selfie of woman 34 Asian American examining her face in 10x magnifying makeup mirror on bathroom counter,
+    visible enlarged pores on nose and cheeks under harsh ring light, mouth open in concerned-disgusted expression pointing
+    finger at her own pore, Skintific Alaska Volcano clay stick standing on counter next to mirror, raw iPhone selfie quality,
+    completely unposed, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_insec_05:
+  avatar: sensitive_skin
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Concealer doesn't work anymore
+  expected_ctr: 5-6%
+  stop_mechanism: concealer relatability + emotional truth
+  overlay_top: no amount of concealer hides texture
+  overlay_bottom: 'skintific 2-pack: $19.99'
+  overlay_style: minimal white text, looks like Instagram caption screenshot
+  full_prompt: 'iPhone selfie of woman 29 white with red rosacea-prone reactive cheeks, half her face has heavy concealer
+    that''s caking and patching over textured skin, the other half raw natural, frustrated tearful expression, harsh bathroom
+    light, Skintific Alaska Volcano clay stick held up to camera in foreground, raw unfiltered phone photo, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_insec_06:
   avatar: efficient_perfectionist
   compliance: compliant
-  angle: 10-minute timer hero
-  text_overlay_suggestion: 10 minutes. That's it.
-  full_prompt: 'Modern minimalist bathroom counter, marble surface, the Skintific Alaska Volcano clay stick standing upright
-    next to a sleek digital timer showing ''10:00'', morning light from window, neutral beige and white tones, MacBook visible
-    blurred in background suggesting work-from-home, text overlay space at top, clean composition, 1:1 aspect ratio
+  compliance_meta: META-SAFE
+  angle: Office bathroom panic
+  expected_ctr: 4-6%
+  stop_mechanism: professional anxiety + relatable timing fear
+  overlay_top: before my 2pm presentation 💀
+  overlay_bottom: B1G1 / $19.99
+  overlay_style: iMessage screenshot aesthetic
+  full_prompt: 'Selfie in corporate office bathroom mirror, woman 33 white American in business blazer, pointing in horror
+    at chin breakout that just appeared, harsh fluorescent office lighting making skin look terrible, Skintific Alaska Volcano
+    clay stick visible in her purse half-hidden, candid ''caught at work'' phone photo energy, modern hotel-style bathroom
+    tiles in background, raw phone quality, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_compliant_02:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_insec_07:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Kid stole my mirror moment
+  expected_ctr: 5-7%
+  stop_mechanism: mom relatability + identity validation
+  overlay_top: mom skin is REAL
+  overlay_bottom: 2 sticks $19.99 (im screaming)
+  overlay_style: TikTok caption with emoji
+  full_prompt: 'Bathroom selfie of mother 32 Latina, toddler hands visible reaching up at edge of frame, woman trying to look
+    at her own clogged-pore nose in mirror, exhausted bags-under-eyes expression, no makeup, hair in messy bun, Skintific
+    Alaska Volcano clay stick on counter behind her, raw iPhone candid mom-life photo, harsh morning light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_insec_08:
+  avatar: sensitive_skin
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: After workout flush + breakouts
+  expected_ctr: 4-6%
+  stop_mechanism: gym flush relatability + workout audience
+  overlay_top: post workout face is humbling
+  overlay_bottom: B1G1 — $19.99 thank god
+  overlay_style: Instagram Story handwritten white text
+  full_prompt: 'iPhone selfie of woman 26 mixed-race in sweaty gym tank top, flushed red post-workout face with visible breakouts
+    and clogged pores on forehead, sweaty hair stuck to face, gym locker room mirror in background blurry, Skintific Alaska
+    Volcano clay stick held up next to face, raw candid post-gym energy, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_insec_09:
   avatar: efficient_perfectionist
   compliance: compliant
-  angle: Coffee + skincare multitask
-  text_overlay_suggestion: While my coffee brews.
-  full_prompt: 'Woman 32 years old wearing white silk pajamas applying clay stick to her face in modern kitchen, espresso
-    machine brewing in background, minimal makeup, natural confidence, soft morning light, neutral palette, the Skintific
-    gray clay stick visible in her hand, 1:1 composition
+  compliance_meta: META-SAFE
+  angle: Sunday self-discovery
+  expected_ctr: 4-5%
+  stop_mechanism: weekend self-care relatability
+  overlay_top: Sunday reset = humbling
+  overlay_bottom: buy one get one $19.99
+  overlay_style: Pinterest caption style minimal
+  full_prompt: 'Selfie of woman 35 white American in cozy sweater on Sunday morning, soft window light, examining nose in
+    handheld mirror with shocked surprise expression, finger pointing to discovered blackheads, Skintific Alaska Volcano clay
+    stick on coffee table next to laptop and journal, raw weekend phone photo, completely candid, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_compliant_03:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_insec_10:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Car visor mirror reality
+  expected_ctr: 4-6%
+  stop_mechanism: car/commute relatability + mom audience
+  overlay_top: school pickup line revelations
+  overlay_bottom: $19.99 — buy 1 get 1
+  overlay_style: white sans serif with subtle shadow
+  full_prompt: 'iPhone selfie POV in car visor mirror, woman 30 Black American in driver''s seat parked, harsh midday sun
+    through windshield, examining her chin breakouts and pore congestion in tiny mirror, frustrated expression, Skintific
+    Alaska Volcano clay stick visible in cup holder, raw real-life phone photo aesthetic, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_disc_01:
   avatar: efficient_perfectionist
   compliance: compliant
-  angle: Calendar overlay efficiency
-  text_overlay_suggestion: Skincare that fits the schedule.
-  full_prompt: 'Flatlay overhead shot on white desk: Skintific Alaska Volcano clay stick, open paper planner with handwritten
-    schedule, sleek black pen, small cup of matcha, gold watch, clean Scandinavian aesthetic, soft daylight, 1:1 aspect ratio
+  compliance_meta: META-SAFE
+  angle: TikTok ordered me to buy
+  expected_ctr: 5-7%
+  stop_mechanism: social proof + algorithm trust
+  overlay_top: tiktok made me buy this
+  overlay_bottom: B1G1 free $19.99
+  overlay_style: TikTok native caption font
+  full_prompt: 'iPhone selfie of woman 31 white American in pajamas on couch, holding phone screen showing Skintific Alaska
+    Volcano product page visible, other hand holding two unboxed Skintific clay sticks, mouth open in ''wait what'' surprise,
+    messy living room background with blanket, raw candid evening photo, soft warm lamp lighting, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_compliant_04:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_disc_02:
+  avatar: sensitive_skin
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Boyfriend doesn't know
+  expected_ctr: 5-7%
+  stop_mechanism: relationship humor + secret purchase relatability
+  overlay_top: don't tell my boyfriend i did it again
+  overlay_bottom: $19.99 for TWO 🫣
+  overlay_style: iMessage aesthetic
+  full_prompt: 'Selfie of woman 28 Asian American whispering toward camera with finger to lips, holding two Skintific Alaska
+    Volcano clay sticks, conspiratorial look, bathroom counter behind her with other skincare visible, slight smile suggesting
+    secret purchase, raw iPhone photo, soft bathroom light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_disc_03:
+  avatar: convenience_seeker
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: Amazon vs direct site savings
+  expected_ctr: 5-7%
+  stop_mechanism: insider info + savings reveal
+  overlay_top: 'amazon: $24/each. direct site:'
+  overlay_bottom: B1G1 → $19.99 TOTAL
+  overlay_style: yellow highlighter + red arrow drawn over
+  full_prompt: 'iPhone POV looking down at desk with laptop showing Amazon page on left side and Skintific direct website
+    on right, woman''s hand pointing to price difference, two Skintific clay sticks unboxed on desk, dramatic gesture revealing
+    hidden info, raw phone photo from above, harsh overhead light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_disc_04:
   avatar: efficient_perfectionist
   compliance: compliant
-  angle: Application technique close-up
-  text_overlay_suggestion: Glides on. No mess.
-  full_prompt: 'Extreme close-up of woman''s hand holding Skintific clay stick applying smooth gray clay line on cheek, professional
-    studio lighting, focus on technique and product texture, clean white background, hand model with neutral manicure, 1:1
-    composition
+  compliance_meta: META-SAFE
+  angle: Esthetician told me to
+  expected_ctr: 5-7%
+  stop_mechanism: authority transfer (esthetician credibility)
+  overlay_top: my esthetician told me to stop spending $80/visit
+  overlay_bottom: 'she sent me here: $19.99 (B1G1)'
+  overlay_style: Instagram Story handwritten
+  full_prompt: 'iPhone selfie of woman 36 white in athleisure, sitting in car after appointment, two Skintific Alaska Volcano
+    clay sticks visible in passenger seat shopping bag, small knowing smile, hair in topknot, post-spa glow, raw candid phone
+    photo afternoon light through windshield, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_compliant_05:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_disc_05:
+  avatar: sensitive_skin
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Reddit r/SkincareAddiction recommended
+  expected_ctr: 4-6%
+  stop_mechanism: community validation + skeptical-buyer trust
+  overlay_top: reddit was right (rare)
+  overlay_bottom: B1G1 / $19.99
+  overlay_style: Reddit-inspired typography
+  full_prompt: 'iPhone screenshot-style selfie, woman 25 mixed-race holding her phone showing a Reddit thread blurred in background,
+    two Skintific Alaska Volcano clay sticks held up to camera, slight smile of validation, bedroom background blurred with
+    fairy lights, raw evening selfie, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_disc_06:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Hotel discovery moment
+  expected_ctr: 4-5%
+  stop_mechanism: travel/aspirational + budget-savvy
+  overlay_top: packed these instead of the $200 spa kit
+  overlay_bottom: B1G1 $19.99 = no regrets
+  overlay_style: minimal white sans serif
+  full_prompt: 'Selfie of woman 29 Latina in hotel bathrobe in chic boutique hotel bathroom, holding two Skintific clay sticks
+    she packed, surprised happy expression, marble counter visible, raw vacation phone photo, soft hotel lighting, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_disc_07:
   avatar: efficient_perfectionist
   compliance: compliant
-  angle: Esthetician authority
-  text_overlay_suggestion: What I actually recommend.
-  full_prompt: 'Woman 35 in white esthetician uniform in clean modern spa setting, holding Skintific Alaska Volcano clay stick
-    toward camera, soft professional lighting, slight smile, hair pulled back, looks like trusted skincare expert, neutral
-    background, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_compliant_06:
-  avatar: efficient_perfectionist
-  compliance: compliant
-  angle: Desk drawer essentials
-  text_overlay_suggestion: Office bag essentials.
-  full_prompt: 'Open office desk drawer flat-lay shot from above: Skintific clay stick alongside AirPods, lipstick, hand cream,
-    mints, organized minimalist style, polished walnut drawer, soft top-down lighting, 1:1 composition
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_compliant_07:
-  avatar: efficient_perfectionist
-  compliance: compliant
-  angle: Bathroom shelf curation
-  text_overlay_suggestion: The shelf earned its spot.
-  full_prompt: 'Minimalist bathroom shelf with curated skincare lineup: Skintific Alaska Volcano clay stick prominently in
-    center, surrounded by 4-5 high-end neutral-toned skincare bottles, marble shelf, soft window light, spa-like aesthetic,
+  compliance_meta: META-SAFE
+  angle: Sister's recommendation
+  expected_ctr: 4-5%
+  stop_mechanism: social proof + family endorsement
+  overlay_top: ordered 4 between us
+  overlay_bottom: B1G1 = perfect for sisters $19.99
+  overlay_style: casual handwritten
+  full_prompt: 'Group selfie of two sisters 30 and 33 white American, both holding Skintific Alaska Volcano clay sticks toward
+    camera, kitchen background, both laughing, golden hour light through window, raw family iPhone photo, candid not posed,
     1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_compliant_08:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_disc_08:
+  avatar: sensitive_skin
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: Dermatologist won't tell you
+  expected_ctr: 6-8%
+  stop_mechanism: anti-establishment + insider feeling
+  overlay_top: what my derm won't recommend (she sells $200 serums)
+  overlay_bottom: 'this: B1G1 $19.99'
+  overlay_style: yellow highlighter aesthetic
+  full_prompt: 'iPhone selfie of woman 32 white in cozy reading chair, holding Skintific Alaska Volcano clay stick up to camera
+    with raised conspiratorial eyebrow, warm lamp lighting evening, books in background blurred, raw candid living room photo,
+    1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_skep_01:
   avatar: efficient_perfectionist
   compliance: compliant
-  angle: Texture swatch macro
-  text_overlay_suggestion: Smoother than it looks.
-  full_prompt: 'Macro photography of gray Skintific Alaska Volcano clay swatch on clean white surface, smooth creamy texture
-    visible, the clay stick laying next to swatch, soft directional lighting showing material quality, no skin visible, just
-    product, 1:1
+  compliance_meta: META-SAFE
+  angle: Bought as joke
+  expected_ctr: 5-7%
+  stop_mechanism: skeptic-to-believer relatability
+  overlay_top: bought it ironically. JOKE'S ON ME.
+  overlay_bottom: $19.99 / B1G1 free
+  overlay_style: Twitter screenshot aesthetic
+  full_prompt: 'iPhone selfie of woman 34 white American in bathroom, half-laughing-half-shocked expression, holding two unboxed
+    Skintific Alaska Volcano clay sticks, eyebrows raised in ''okay fine'' surrender, raw morning bathroom selfie, harsh overhead
+    light, no makeup, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_compliant_09:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_skep_02:
+  avatar: sensitive_skin
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Expected garbage
+  expected_ctr: 5-7%
+  stop_mechanism: low-expectation reversal + price-quality surprise
+  overlay_top: $19.99 for two? expected garbage.
+  overlay_bottom: '...i was wrong (B1G1)'
+  overlay_style: iMessage chat aesthetic
+  full_prompt: 'iPhone selfie of woman 27 Black American mid-laugh shaking her head in disbelief, hand on her cheek showing
+    visibly clearer skin, Skintific Alaska Volcano clay stick held up to camera, bedroom mirror selfie, warm lamp light, raw
+    candid moment of realization, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_skep_03:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Husband made fun of me
+  expected_ctr: 5-6%
+  stop_mechanism: relationship humor + vindication trigger
+  overlay_top: 'my husband: ''another tiktok scam'' — me:'
+  overlay_bottom: B1G1 / $19.99 / vindicated
+  overlay_style: casual sans serif
+  full_prompt: 'iPhone selfie of woman 31 Latina, sticking tongue out playfully at camera, holding two Skintific Alaska Volcano
+    clay sticks like trophy, kitchen background with husband blurred laughing in distance, raw candid family photo, warm afternoon
+    light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_skep_04:
   avatar: efficient_perfectionist
   compliance: compliant
-  angle: Side-by-side format comparison
-  text_overlay_suggestion: Same idea. Better execution.
-  full_prompt: 'Split composition: left side shows messy traditional clay mask jar with brush and clay scattered on counter,
-    right side shows clean Skintific clay stick standing tall on pristine surface, dramatic lighting contrast between chaos
-    and order, 1:1 aspect ratio
+  compliance_meta: META-SAFE
+  angle: I research everything
+  expected_ctr: 4-5%
+  stop_mechanism: due-diligence audience validation
+  overlay_top: i research EVERYTHING. this passed.
+  overlay_bottom: 'B1G1 deal: $19.99'
+  overlay_style: minimal academic-feel typography
+  full_prompt: 'Selfie of woman 38 Asian American at desk surrounded by laptop and notebook with research notes, holding Skintific
+    Alaska Volcano clay stick toward camera with reluctant smile, glasses pushed up, raw work-from-home photo, soft natural
+    light, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_compliant_10:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_skep_05:
+  avatar: sensitive_skin
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: 13 products failed
+  expected_ctr: 5-7%
+  stop_mechanism: exhaustion validation + survivor identity
+  overlay_top: 13 products failed. one $19.99 deal worked.
+  overlay_bottom: B1G1 — never going back
+  overlay_style: Pinterest caption with white box
+  full_prompt: 'iPhone selfie POV of woman 26 white pointing camera down at bathroom counter showing 5-6 half-used skincare
+    bottles cluttered, central focus on two Skintific Alaska Volcano clay sticks, hand frustrated/defeated, raw overhead bathroom
+    photo, harsh light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_skep_06:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Lazy girl test
+  expected_ctr: 5-7%
+  stop_mechanism: low-effort identity validation
+  overlay_top: 'lazy girl skincare review:'
+  overlay_bottom: actually works?? B1G1 $19.99
+  overlay_style: TikTok caption white text
+  full_prompt: 'iPhone selfie of woman 28 mixed-race lying on bed in oversized t-shirt, holding Skintific Alaska Volcano clay
+    stick lazily in one hand, surprised eyebrows raised expression, messy bedroom background, soft afternoon nap light, raw
+    candid bedroom photo, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+ugc_skep_07:
   avatar: efficient_perfectionist
   compliance: compliant
-  angle: Subtle confidence portrait
-  text_overlay_suggestion: 10 minutes I don't skip.
-  full_prompt: 'Woman 38 with clear skin in soft turtleneck, holding Skintific clay stick casually near her face, warm natural
-    lighting, content expression not exaggerated smile, professional but approachable, blurred home office background, 1:1
+  compliance_meta: META-SAFE
+  angle: Marketing was suspicious
+  expected_ctr: 5-6%
+  stop_mechanism: ad-skepticism meta-acknowledgment
+  overlay_top: the ads looked sketchy. it works.
+  overlay_bottom: B1G1 / $19.99
+  overlay_style: casual italics
+  full_prompt: 'Selfie of woman 33 white American with raised skeptical eyebrow then breaking into reluctant smile, holding
+    Skintific Alaska Volcano clay stick, kitchen counter background with coffee mug, raw morning photo, natural window light,
+    1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_aggressive_01:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_01:
   avatar: efficient_perfectionist
   compliance: aggressive
-  angle: Timer countdown urgency
-  text_overlay_suggestion: 30 seconds left until clear pores.
-  full_prompt: 'Dramatic dark bathroom scene, woman 30 with mask applied checking large red digital countdown timer showing
-    ''00:30'', moody lighting, intense focus on results timing, Skintific clay stick visible on counter, 1:1
+  compliance_meta: BURNER
+  angle: vs Sephora prices
+  expected_ctr: 6-8%
+  stop_mechanism: price-anchoring rage + savings shock
+  overlay_top: 'Sephora: $68 — This: $19.99 (TWO)'
+  overlay_bottom: B1G1 — same ingredients btw
+  overlay_style: yellow highlighter behind black bold + red strikethrough on '$68'
+  full_prompt: 'iPhone POV looking down at Sephora black-and-white striped shopping bag on left side of frame, two Skintific
+    Alaska Volcano clay sticks placed on right side, woman''s hand making ''why?'' gesture between them, harsh overhead light
+    on white kitchen counter, raw flat-lay phone photo, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_aggressive_02:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_02:
+  avatar: sensitive_skin
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: vs Drunk Elephant
+  expected_ctr: 6-7%
+  stop_mechanism: buyer's remorse + competitor takedown
+  overlay_top: spent $87 on this →
+  overlay_bottom: ← shouldve bought this. B1G1 $19.99
+  overlay_style: two arrows pointing different directions, casual typography
+  full_prompt: 'iPhone selfie of woman 29 white holding empty Drunk Elephant-style colorful skincare bottle in left hand and
+    Skintific Alaska Volcano clay stick in right hand, eye-roll expression, bathroom counter background, raw candid bathroom
+    photo, harsh overhead light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_03:
+  avatar: convenience_seeker
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: vs Glossier hype
+  expected_ctr: 5-7%
+  stop_mechanism: brand-loyalty shift + millennial reference
+  overlay_top: Glossier mood died, this lives
+  overlay_bottom: B1G1 → $19.99
+  overlay_style: pink and red marker handwritten aesthetic
+  full_prompt: 'iPhone POV flat-lay on pink bedroom blanket, pink Glossier-style packaging on left crossed out with red marker
+    drawn through it, two Skintific Alaska Volcano clay sticks on right with green checkmarks, raw overhead phone photo, soft
+    pink bedroom light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_04:
+  avatar: efficient_perfectionist
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: vs The Ordinary cult
+  expected_ctr: 5-6%
+  stop_mechanism: stack-overload validation + simplicity hook
+  overlay_top: TWELVE Ordinary serums vs ONE $19.99 deal
+  overlay_bottom: B1G1 — i did the math
+  overlay_style: spreadsheet-screenshot aesthetic
+  full_prompt: 'iPhone flat-lay on white desk, multiple small white-labeled minimalist skincare bottles on left side scattered,
+    two Skintific Alaska Volcano clay sticks centered on right, woman''s hand pointing to the sticks, raw phone photo, harsh
+    afternoon light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_05:
+  avatar: sensitive_skin
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: vs Korean 10-step
+  expected_ctr: 5-7%
+  stop_mechanism: complexity exhaustion + simplicity reward
+  overlay_top: '10-step Korean routine: $400. This: $19.99'
+  overlay_bottom: B1G1 / pick your fighter
+  overlay_style: comparison-chart casual handwritten
+  full_prompt: 'iPhone flat-lay overhead shot on white surface, 10+ tiny Korean-style skincare bottles arranged in a chaotic
+    line on left, two Skintific Alaska Volcano clay sticks alone on right with arrow drawn pointing to them, raw phone photo,
+    harsh light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_06:
+  avatar: convenience_seeker
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: vs Estee Lauder counter
+  expected_ctr: 5-7%
+  stop_mechanism: luxury-defiance identity
+  overlay_top: walked past the $190 cream
+  overlay_bottom: got 2 of these for $19.99
+  overlay_style: white text iMessage style
+  full_prompt: 'iPhone selfie of woman 35 mixed-race in department store mirror near luxury skincare counter, holding Skintific
+    Alaska Volcano clay stick from her purse, smug small smile, harsh fluorescent retail lighting, raw candid mall photo,
+    1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_07:
   avatar: efficient_perfectionist
   compliance: aggressive
-  angle: Before/after split (subtle)
-  text_overlay_suggestion: Pores. Refined.
-  full_prompt: 'Side-by-side split portrait of same woman 35: left side shows visible enlarged pores on nose area in harsh
-    lighting, right side shows refined smooth nose skin in soft lighting, both photos professional quality, Skintific clay
-    stick centered between, 1:1
+  compliance_meta: BURNER
+  angle: vs Tatcha cult favorite
+  expected_ctr: 6-7%
+  stop_mechanism: luxury price-shock + cult brand takedown
+  overlay_top: 'Tatcha: $135 — This: $19.99 for TWO'
+  overlay_bottom: B1G1 / I'm not a math person but
+  overlay_style: yellow highlighter + bold strikethrough
+  full_prompt: 'iPhone overhead flat-lay, fancy gold-accented Japanese-style skincare jar on left side, two Skintific Alaska
+    Volcano clay sticks on right, both labeled with price tags showing massive difference, raw phone photo from above, harsh
+    overhead light, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_aggressive_03:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_08:
+  avatar: sensitive_skin
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: vs Kiehl's overpriced
+  expected_ctr: 5-7%
+  stop_mechanism: heritage-brand vs upstart drama
+  overlay_top: Kiehl's $58 vs Skintific $19.99 (B1G1)
+  overlay_bottom: guess which one cleared my pores
+  overlay_style: minimal white text
+  full_prompt: 'iPhone selfie of woman 31 white American with raised eyebrow in bathroom, holding old-fashioned amber Kiehl''s-style
+    bottle in left hand and Skintific Alaska Volcano clay stick in right, comparing them, harsh overhead light, raw candid
+    photo, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_09:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: vs CeraVe + Cetaphil pharmacy
+  expected_ctr: 4-6%
+  stop_mechanism: tier-upgrade aspiration
+  overlay_top: drugstore basics vs THIS
+  overlay_bottom: B1G1 deal — $19.99 / level up
+  overlay_style: bold sans serif with arrow
+  full_prompt: 'iPhone overhead flat-lay on white pharmacy-aesthetic surface, big drugstore CeraVe and Cetaphil-style white
+    pump bottles on left, two Skintific Alaska Volcano clay sticks on right with sparkle/shine effect, raw flat-lay phone
+    photo, harsh light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_brand_10:
+  avatar: efficient_perfectionist
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: vs influencer brand markup
+  expected_ctr: 5-6%
+  stop_mechanism: influencer-fatigue + authentic-find
+  overlay_top: 'influencer brand: $48 + meh — this:'
+  overlay_bottom: $19.99 + B1G1 + actually works
+  overlay_style: casual sans serif
+  full_prompt: 'iPhone selfie of woman 30 white with disappointed face holding empty influencer-celebrity-branded pink skincare
+    bottle in one hand, Skintific Alaska Volcano clay stick in other, raw bedroom mirror photo, soft afternoon light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_treat_01:
   avatar: efficient_perfectionist
   compliance: aggressive
-  angle: Power morning routine reveal
-  text_overlay_suggestion: Non-negotiables.
-  full_prompt: 'Aerial shot of bathroom counter: Skintific clay stick at center surrounded by power-routine items - black
-    coffee, supplements, planner with red checkmarks, dark moody lighting with single overhead light, 1:1
+  compliance_meta: BURNER
+  angle: vs $200 facial
+  expected_ctr: 6-8%
+  stop_mechanism: spa-luxury defiance + savings rage
+  overlay_top: '$200 facial vs THIS:'
+  overlay_bottom: $19.99 / B1G1 / same energy
+  overlay_style: yellow highlighter behind bold black
+  full_prompt: 'iPhone selfie of woman 34 white American in pajamas in messy bathroom, holding two Skintific Alaska Volcano
+    clay sticks toward camera triumphantly, raised eyebrow sarcastic expression, harsh overhead bathroom light, raw candid
+    morning photo, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_aggressive_04:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_treat_02:
+  avatar: sensitive_skin
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: vs HydraFacial
+  expected_ctr: 6-7%
+  stop_mechanism: medical-spa procedural defiance
+  overlay_top: 'HydraFacial: $250 / 6 weeks. This: $19.99 / now.'
+  overlay_bottom: B1G1 — buy 1 give 1 to your sister
+  overlay_style: casual italics
+  full_prompt: 'iPhone selfie of woman 28 Latina with crossed arms confidently, two Skintific Alaska Volcano clay sticks visible
+    on counter behind her, slight smug smile, raw bathroom photo, harsh overhead light, no makeup, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_treat_03:
+  avatar: convenience_seeker
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: vs Botox preventative
+  expected_ctr: 6-8%
+  stop_mechanism: preventative-care rage-bait
+  overlay_top: 'preventative botox: $600. preventative pores:'
+  overlay_bottom: $19.99 (B1G1) / same energy
+  overlay_style: pink-accented casual
+  full_prompt: 'iPhone selfie of woman 29 mixed-race making ''mind blown'' gesture with hands near her head, two Skintific
+    Alaska Volcano clay sticks visible on bedroom dresser, raw playful photo, soft afternoon light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_treat_04:
   avatar: efficient_perfectionist
   compliance: aggressive
-  angle: Pore close-up extraction style
-  text_overlay_suggestion: Goes deep.
-  full_prompt: 'Extreme macro of cheek skin showing visible pores being treated with gray clay coverage, Skintific stick applying
-    clay to skin, scientific clean aesthetic, dramatic side lighting emphasizing texture, 1:1
+  compliance_meta: BURNER
+  angle: vs Accutane prescription
+  expected_ctr: 7-9%
+  stop_mechanism: anti-prescription identity + savings
+  overlay_top: 'my derm: ''try Accutane'' — me, with $20:'
+  overlay_bottom: skintific B1G1 $19.99
+  overlay_style: rebel handwritten
+  full_prompt: 'iPhone selfie of woman 32 white in robe, defiant raised chin, holding Skintific Alaska Volcano clay stick
+    like trophy, raw bathroom photo, harsh light, slight smile of vindication, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_aggressive_05:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_treat_05:
+  avatar: sensitive_skin
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: vs chemical peel cost
+  expected_ctr: 6-7%
+  stop_mechanism: cumulative-cost shock
+  overlay_top: 'chemical peels over 5 yrs: $3,000+'
+  overlay_bottom: 'this: $19.99 ONCE (B1G1)'
+  overlay_style: calculator/spreadsheet aesthetic
+  full_prompt: 'iPhone POV looking down at calculator on phone showing $3000 figure, two Skintific Alaska Volcano clay sticks
+    on either side of phone, raw flat-lay overhead photo on bed sheets, soft light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_treat_06:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: vs LED mask gadget
+  expected_ctr: 5-6%
+  stop_mechanism: gadget-buyer regret + practicality
+  overlay_top: $400 LED mask collecting dust
+  overlay_bottom: vs $19.99 (B1G1) actually used daily
+  overlay_style: minimal sans serif comparison
+  full_prompt: 'iPhone overhead flat-lay, expensive futuristic-looking LED face mask gadget on left in box, two Skintific
+    Alaska Volcano clay sticks on right, raw phone photo from above, harsh light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_treat_07:
   avatar: efficient_perfectionist
   compliance: aggressive
-  angle: Stress to glow narrative
-  text_overlay_suggestion: Burned out → bounced back.
-  full_prompt: 'Split scene: left shows woman exhausted at computer late at night with stressed skin, right shows same woman
-    next morning with clear glowing skin holding Skintific clay stick, transformation feel, 1:1
+  compliance_meta: BURNER
+  angle: vs microneedling
+  expected_ctr: 6-7%
+  stop_mechanism: professional-treatment skip identity
+  overlay_top: skipped $400 microneedling appointment
+  overlay_bottom: for $19.99 B1G1 / no regrets
+  overlay_style: casual italics
+  full_prompt: 'iPhone selfie of woman 36 white American touching her cheek with confident smile, holding Skintific Alaska
+    Volcano clay stick visible to camera, raw bedroom mirror selfie, golden hour light, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_aggressive_06:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_treat_08:
+  avatar: sensitive_skin
+  compliance: aggressive
+  compliance_meta: BURNER
+  angle: vs prescription topical cost
+  expected_ctr: 6-7%
+  stop_mechanism: healthcare-cost defiance
+  overlay_top: 'Rx topical (with insurance): $80/mo'
+  overlay_bottom: 'this: $19.99 / B1G1 / one time'
+  overlay_style: medical-form aesthetic
+  full_prompt: 'iPhone selfie of woman 27 Black American holding prescription pill bottle in one hand and Skintific Alaska
+    Volcano clay stick in other, eyebrow raised questioning, raw bathroom photo, harsh light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_jar_01:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Messy jar disaster
+  expected_ctr: 5-7%
+  stop_mechanism: mess-frustration relatability
+  overlay_top: your $40 jar mask vs $19.99 (TWO)
+  overlay_bottom: B1G1 / no mess / no brush
+  overlay_style: before/after caption style
+  full_prompt: 'iPhone overhead flat-lay on white bathroom counter, traditional clay mask jar tipped over with gray clay spilled
+    messily, brush dirty next to it, two clean Skintific Alaska Volcano clay sticks standing pristine on right side, raw chaos
+    vs order phone photo, harsh light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_jar_02:
   avatar: efficient_perfectionist
-  compliance: aggressive
-  angle: Result-driven testimonial frame
-  text_overlay_suggestion: I stopped getting facials.
-  full_prompt: 'Woman 33 holding Skintific clay stick close to camera with confident look, beautifully clear skin in foreground
-    sharp focus, magazine-quote-style typography space on right side, professional editorial lighting, 1:1
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Travel jar broke
+  expected_ctr: 5-6%
+  stop_mechanism: travel-disaster relatability
+  overlay_top: she took the jar to Mexico
+  overlay_bottom: 'be smart: B1G1 $19.99 (sticks travel)'
+  overlay_style: travel-blog aesthetic
+  full_prompt: 'iPhone POV looking into open suitcase, broken clay mask jar with gray clay smeared all over white clothes
+    inside suitcase, two Skintific Alaska Volcano clay sticks placed neatly intact, raw overhead travel-disaster phone photo,
+    hotel room light, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ep_aggressive_07:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_jar_03:
+  avatar: sensitive_skin
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Dipping fingers bacteria
+  expected_ctr: 5-7%
+  stop_mechanism: hygiene disgust trigger
+  overlay_top: jar masks = bacteria soup 🦠
+  overlay_bottom: stick = clean. B1G1 $19.99
+  overlay_style: TikTok caption with emoji
+  full_prompt: 'iPhone close-up overhead of woman''s hand fingers visibly dirty about to dip into clay mask jar, gross-out
+    angle, two Skintific Alaska Volcano clay sticks standing clean on right, raw bathroom counter photo, harsh light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_jar_04:
+  avatar: convenience_seeker
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Brush vs stick application
+  expected_ctr: 5-6%
+  stop_mechanism: skill-gap relatability
+  overlay_top: jar = patchy. stick = perfect.
+  overlay_bottom: B1G1 → $19.99
+  overlay_style: split-screen caption
+  full_prompt: 'Side-by-side iPhone selfie split-comparison of same woman 30 mixed-race, left side has clay mask sloppily
+    applied with fingers/brush in patchy mess, right side has clean smooth Skintific stick application, harsh bathroom light,
+    raw selfie split, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_jar_05:
   avatar: efficient_perfectionist
-  compliance: aggressive
-  angle: Premium ritual mood
-  text_overlay_suggestion: 10 minutes. For me.
-  full_prompt: 'Dark luxurious bathroom, single candle lit, Skintific clay stick on black marble next to crystal water glass,
-    dramatic chiaroscuro lighting, premium spa aesthetic, sense of indulgence, 1:1
+  compliance: compliant
+  compliance_meta: META-SAFE
+  angle: Time waste comparison
+  expected_ctr: 5-6%
+  stop_mechanism: complexity-fatigue resolution
+  overlay_top: 'jar setup: 8 things. stick: ONE thing.'
+  overlay_bottom: $19.99 / B1G1 / less is more
+  overlay_style: minimalist before/after
+  full_prompt: 'iPhone overhead flat-lay, jar mask + brush + spatula + headband + cleansing cloth all spread out on left side,
+    two Skintific Alaska Volcano clay sticks alone on right, woman''s hand pointing to right side, raw flat-lay photo, harsh
+    light, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_01:
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_jar_06:
   avatar: sensitive_skin
   compliance: compliant
-  angle: Gentle reveal portrait
-  text_overlay_suggestion: Finally one that doesn't burn.
-  full_prompt: 'Woman 28 with naturally pink-toned reactive looking skin, soft genuine relieved smile, holding Skintific clay
-    stick near face, warm window lighting, no heavy makeup, freckles visible, authentic untouched skin, 1:1 composition
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_02:
-  avatar: sensitive_skin
-  compliance: compliant
-  angle: Probiotic ingredient highlight
-  text_overlay_suggestion: Probiotic complex. Not harsh acids.
-  full_prompt: 'Artistic flat-lay: Skintific Alaska Volcano clay stick centered on cream linen cloth, surrounded by green
-    leaves, small jar of probiotic culture, sliced aloe vera, soft natural lighting, botanical apothecary aesthetic, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_03:
-  avatar: sensitive_skin
-  compliance: compliant
-  angle: Sensitive skin community
-  text_overlay_suggestion: Rosacea-prone. Still works.
-  full_prompt: 'Woman 25 with visible rosacea-prone skin in cozy sweater holding Skintific clay stick, gentle natural lighting,
-    soft beige and pink tones, content expression, looks relatable not model-perfect, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_04:
-  avatar: sensitive_skin
-  compliance: compliant
-  angle: Calm bathroom moment
-  text_overlay_suggestion: My skin can finally breathe.
-  full_prompt: 'Quiet bathroom scene with steam from warm shower, Skintific clay stick on counter next to soft white washcloth,
-    dried lavender, dewy mirror, peaceful atmosphere, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_05:
-  avatar: sensitive_skin
-  compliance: compliant
-  angle: No-irritation promise visual
-  text_overlay_suggestion: No tightness. No redness.
-  full_prompt: 'Macro extreme close-up of clear calm cheek skin with subtle gray clay smear at edge of frame, Skintific clay
-    stick blurred in background, lighting emphasizes skin calmness no redness, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_06:
-  avatar: sensitive_skin
-  compliance: compliant
-  angle: Self-care soft scene
-  text_overlay_suggestion: 10 quiet minutes.
-  full_prompt: 'Woman 30 reading book in cozy chair with clay mask applied evenly to face, holding ceramic mug, blanket on
-    lap, warm afternoon light, comfortable relaxed posture, Skintific clay stick on side table, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_07:
-  avatar: sensitive_skin
-  compliance: compliant
-  angle: Gentle clay swatch botanical
-  text_overlay_suggestion: Gentle. By design.
-  full_prompt: 'Smooth gray clay swatch on white marble surrounded by green eucalyptus leaves and water droplets, Skintific
-    clay stick laying horizontally next to swatch, soft natural daylight, fresh spa feel, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_08:
-  avatar: sensitive_skin
-  compliance: compliant
-  angle: Eczema-friendly visual
-  text_overlay_suggestion: Patch test approved.
-  full_prompt: 'Hand close-up applying clay stick to forearm to demonstrate gentleness, slightly fair skin tone visible, soft
-    lighting, focus on the gentle smooth application, Skintific brand label visible, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_09:
-  avatar: sensitive_skin
-  compliance: compliant
-  angle: Ingredient transparency
-  text_overlay_suggestion: Three ingredients. No fillers.
-  full_prompt: 'Educational style flat-lay: Skintific clay stick at center, small labeled vials around it showing ''Glycolic
-    Acid'', ''Probiotic Complex'', ''Collagen'', clean white background, scientific aesthetic, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_compliant_10:
-  avatar: sensitive_skin
-  compliance: compliant
-  angle: Trust testimonial frame
-  text_overlay_suggestion: Year three. Still gentle.
-  full_prompt: 'Woman 27 with sensitive looking thin skin, soft genuine emotion of relief, holding Skintific clay stick, warm
-    cream background, magazine portrait style, space for testimonial quote on side, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_aggressive_01:
-  avatar: sensitive_skin
-  compliance: aggressive
-  angle: Reactive skin before/after
-  text_overlay_suggestion: Angry → calm.
-  full_prompt: 'Split portrait: left shows woman 26 with visibly red irritated reactive skin and small breakouts, right shows
-    same woman with calm even-toned clear skin, Skintific clay stick visible between halves, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_aggressive_02:
-  avatar: sensitive_skin
-  compliance: aggressive
-  angle: Tear of relief emotional
-  text_overlay_suggestion: I cried. It actually worked.
-  full_prompt: 'Close portrait of woman 29 with single tear of joy on cheek, soft smile, holding Skintific clay stick, emotional
-    vulnerable lighting, story of finding the right product, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_aggressive_03:
-  avatar: sensitive_skin
-  compliance: aggressive
-  angle: Failed products graveyard
-  text_overlay_suggestion: Survived 14 failures.
-  full_prompt: 'Flat-lay of crossed-out failed skincare products on dark surface: harsh scrubs, drying clay masks, alcohol
-    toners all marked with red X, only Skintific Alaska Volcano clay stick standing upright with green checkmark, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_aggressive_04:
-  avatar: sensitive_skin
-  compliance: aggressive
-  angle: Skin barrier visualization
-  text_overlay_suggestion: Barrier intact. Pores clear.
-  full_prompt: 'Artistic close-up of cheek skin with thin protective glowing layer visible, Skintific clay stick beside, scientific
-    yet beautiful aesthetic, ethereal lighting, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_aggressive_05:
-  avatar: sensitive_skin
-  compliance: aggressive
-  angle: Dermatologist mention angle
-  text_overlay_suggestion: What my derm said yes to.
-  full_prompt: 'Hand in white medical coat sleeve holding Skintific Alaska Volcano clay stick, clinical clean background,
-    professional medical aesthetic, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_aggressive_06:
-  avatar: sensitive_skin
-  compliance: aggressive
-  angle: Burning sensation contrast
-  text_overlay_suggestion: No burn. Just clean.
-  full_prompt: 'Split visual: left shows red angry skin with flames graphic overlay representing burning, right shows calm
-    cool skin with soft blue overlay, Skintific clay stick prominent, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-ss_aggressive_07:
-  avatar: sensitive_skin
-  compliance: aggressive
-  angle: Sensitive skin survivor portrait
-  text_overlay_suggestion: Sensitive skin. Strong opinion.
-  full_prompt: 'Close emotional portrait of woman 31 with thin reactive skin showing visible capillaries, holding Skintific
-    clay stick like trophy, soft lighting, real emotional documentary style, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_compliant_01:
+  compliance_meta: META-SAFE
+  angle: Wasted product
+  expected_ctr: 4-5%
+  stop_mechanism: waste-frustration relatability
+  overlay_top: wasted half this jar
+  overlay_bottom: 'switched to B1G1 sticks: $19.99'
+  overlay_style: minimal handwritten
+  full_prompt: 'iPhone overhead photo of half-empty clay mask jar with old crusty product around the rim, looking unappetizing,
+    two clean fresh Skintific Alaska Volcano clay sticks beside it, raw bathroom counter close-up, harsh light, 1:1
+
+
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
+
+
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
+
+
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
+
+
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
+comp_jar_07:
   avatar: convenience_seeker
   compliance: compliant
-  angle: Travel bag essentials
-  text_overlay_suggestion: TSA-friendly. Drama-free.
-  full_prompt: 'Open carry-on suitcase aerial view: Skintific clay stick visible alongside passport, sunglasses, neutral packing
-    cubes, travel essentials, organized aesthetic, soft daylight, 1:1
+  compliance_meta: META-SAFE
+  angle: Stick is foolproof
+  expected_ctr: 5-6%
+  stop_mechanism: mom-life practicality
+  overlay_top: one hand. mom-proof. B1G1.
+  overlay_bottom: $19.99 — try doing that with a jar
+  overlay_style: casual mom-blogger aesthetic
+  full_prompt: 'iPhone selfie of woman 26 Black American applying Skintific Alaska Volcano clay stick to face one-handed while
+    toddler hugs her leg in frame, mom-life chaos energy, raw candid bathroom photo, harsh light, 1:1
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
+    CRITICAL STYLE: shot on iPhone 13, front camera, JPEG compression visible, slight motion blur or hand-held wobble, no
+    bokeh, no shallow depth of field, flash glare on skin allowed, harsh fluorescent overhead bathroom light or harsh natural
+    window light, amateur phone photography aesthetic, candid not posed, looks like a real screenshot from Instagram Story
+    or TikTok. NOT a commercial photo, NOT magazine quality, NOT studio.
 
 
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
+    ABSOLUTE RULE: DO NOT add any text, captions, headlines, watermarks, price tags, or written words anywhere on the image.
+    The image MUST be completely text-free except for the product label that exists on the physical product. Any text overlay
+    will be added in post-production — leave space at the top and bottom 25% of the frame relatively uncluttered for that
+    overlay.
 
 
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_compliant_02:
-  avatar: convenience_seeker
-  compliance: compliant
-  angle: Hotel bathroom moment
-  text_overlay_suggestion: Room 412. Clear skin.
-  full_prompt: 'Sleek hotel bathroom counter, Skintific clay stick standing next to small toiletry bag, view of city through
-    window in background, evening warm light, 1:1
+    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick — gray cylindrical stick with a white
+    label that reads ''SKINTIFIC ALASKA VOLCANO PORE CLAY STICK'', ''40g / 1.41 FL.OZ''. The brand on the label must say ''SKINTIFIC''
+    — NOT ''BARUBT'' or any other brand name.
 
 
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_compliant_03:
-  avatar: convenience_seeker
-  compliance: compliant
-  angle: Mom in 5 minutes
-  text_overlay_suggestion: Between school runs.
-  full_prompt: 'Woman 32 in casual home clothes applying clay stick quickly in bathroom mirror, toddler toys visible blurred
-    in background, real natural moment not staged, warm lighting, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_compliant_04:
-  avatar: convenience_seeker
-  compliance: compliant
-  angle: Gym bag flat-lay
-  text_overlay_suggestion: Post-workout. No mess.
-  full_prompt: 'Aerial shot of gym bag contents on wood floor: Skintific clay stick, water bottle, towel, sneakers, AirPods,
-    athleisure clothes, organized lifestyle, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_compliant_05:
-  avatar: convenience_seeker
-  compliance: compliant
-  angle: Car console portability
-  text_overlay_suggestion: Lives in my car. Honestly.
-  full_prompt: 'Car center console with Skintific clay stick, sunglasses, key fob, coffee cup, dashboard view of road ahead,
-    mobile lifestyle aesthetic, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_compliant_06:
-  avatar: convenience_seeker
-  compliance: compliant
-  angle: One-handed application demo
-  text_overlay_suggestion: One hand. Done.
-  full_prompt: 'Close-up of woman applying Skintific clay stick to face with one hand while phone/baby in other hand visible,
-    real multitasking moment, natural home lighting, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_compliant_07:
-  avatar: convenience_seeker
-  compliance: compliant
-  angle: Format simplicity icon
-  text_overlay_suggestion: No jar. No brush. No mess.
-  full_prompt: 'Skintific clay stick floating cleanly against pastel blue background, single shadow, modern product photography,
-    no jar, no brushes, minimalist composition emphasizing the stick format, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_compliant_08:
-  avatar: convenience_seeker
-  compliance: compliant
-  angle: Office bathroom quick fix
-  text_overlay_suggestion: Lunch break skincare.
-  full_prompt: 'Modern office bathroom mirror selfie POV style: Skintific clay stick held up, professional office attire,
-    midday touch-up moment, fluorescent but flattering lighting, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_compliant_09:
-  avatar: convenience_seeker
-  compliance: compliant
-  angle: Backpack essentials top view
-  text_overlay_suggestion: What's in my bag.
-  full_prompt: 'Open backpack flat-lay on cafe table: Skintific clay stick, laptop, notebook, water bottle, AirPods, modern
-    professional carry, top-down shot, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_aggressive_01:
-  avatar: convenience_seeker
-  compliance: aggressive
-  angle: Airplane bathroom mirror
-  text_overlay_suggestion: 30,000 feet. Pores clear.
-  full_prompt: 'Inside airplane lavatory with woman applying Skintific clay stick in tiny mirror, dramatic confined space
-    lighting, real travel beauty hack moment, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_aggressive_02:
-  avatar: convenience_seeker
-  compliance: aggressive
-  angle: Mom life chaos vs calm
-  text_overlay_suggestion: 10 minutes that are mine.
-  full_prompt: 'Split scene: left shows messy bathroom counter with toys and chaos, right shows just the Skintific clay stick
-    on clean counter representing peace, contrast story, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_aggressive_03:
-  avatar: convenience_seeker
-  compliance: aggressive
-  angle: Backseat parent hack
-  text_overlay_suggestion: Pickup line glow-up.
-  full_prompt: 'Mom 34 in driver''s seat applying Skintific clay stick during school pickup line, casual real moment, warm
-    afternoon light through windshield, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_aggressive_04:
-  avatar: convenience_seeker
-  compliance: aggressive
-  angle: Hotel before/after travel skin
-  text_overlay_suggestion: Jet lag → fresh face.
-  full_prompt: 'Split scene: left shows tired travel-stressed skin in airplane lighting, right shows refreshed clear skin
-    in hotel bathroom, Skintific clay stick prominent, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_aggressive_05:
-  avatar: convenience_seeker
-  compliance: aggressive
-  angle: Stick vs jar mess war
-  text_overlay_suggestion: Jar girls, we need to talk.
-  full_prompt: 'Dramatic split: left side shows clay jar tipped over with mess everywhere, right side shows clean Skintific
-    stick standing pristine, comedic contrast lighting, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_aggressive_06:
-  avatar: convenience_seeker
-  compliance: aggressive
-  angle: Festival/event quick prep
-  text_overlay_suggestion: Pregame skincare.
-  full_prompt: 'Woman 28 in concert outfit applying clay stick in car visor mirror before going out, evening dramatic lighting,
-    energetic vibe, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
-cs_aggressive_07:
-  avatar: convenience_seeker
-  compliance: aggressive
-  angle: Husband-stealing convenience
-  text_overlay_suggestion: He keeps stealing it.
-  full_prompt: 'Bathroom mirror POV with woman 30 and male partner both reaching for the same Skintific clay stick, playful
-    moment, warm home lighting, comedic relatable, 1:1
-
-
-    Product details (must reproduce exactly): Skintific Alaska Volcano Pore Clay Stick, gray cylindrical stick, white label
-    with ''SKINTIFIC ALASKA VOLCANO'' text, 40g/1.41 FL.OZ.
-
-
-    Style: professional product photography, Meta feed ad aesthetic, sharp focus on product, commercial quality.
-
-
-    Avoid: no BARUBT branding, no other clay stick brands, no fake text, no distorted product label, no extra fingers, no
-    AI artifacts, no watermarks.'
+    Avoid: no professional studio lighting, no clean composition, no commercial photography aesthetic, no DSLR shallow depth
+    of field, no perfect retouched skin, no styled background, no fashion photography, no magazine cover quality, no BARUBT
+    branding, no other clay stick brands, no fake distorted product label, no extra fingers, no AI artifacts, no watermarks,
+    no overlay text, no headlines, no captions.'
