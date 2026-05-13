@@ -36,3 +36,7 @@ Thumbs.db
 
 # logs
 *.log
+
+# Meta Ads manifests (contain real campaign/adset/ad IDs)
+meta_manifest.json
+previews/**/meta_manifest.json
