@@ -1,0 +1,38 @@
+# =============================================================================
+# Meta Ads konfiguráció
+# =============================================================================
+# Csak nyilvános azonosítók — a System User access token a .env-be megy.
+# A publish_to_meta.py innen olvassa az account / page / pixel ID-ket.
+# =============================================================================
+
+business_manager_id: "478789878959559"
+ad_account_id: "act_313572470043786"   # Meta API ezt act_ prefixszel várja
+
+pages:
+  petharmony:
+    id: "693070293405869"
+    # Termék: PetHarmony Allergia Rágótabletta
+    # Korábbi 25-ös batch: previews/petharmony-batch/
+    landing_url: null   # TODO: pontos termékoldal URL
+    product_slug: "petharmony-allergia"
+
+  hormone_harmony:
+    id: "107426579079466"
+    # Termék: Hormone Harmonia (Vital Harmony)
+    # Korábbi 50+50-es batch: previews/batch-50/ + previews/hh-v2-batch/
+    landing_url: null   # TODO: pontos termékoldal URL (pl. vitalharmony.net/products/...)
+    product_slug: "hormone-harmonia"
+
+pixel_id: null   # TODO: ha van — Events Manager → Pixel → ID
+
+defaults:
+  # Az alábbiakat felülbírálhatod a CLI-ben vagy a publish manifestben.
+  optimization_goal: "LINK_CLICKS"          # vagy LANDING_PAGE_VIEWS, OFFSITE_CONVERSIONS
+  bid_strategy: "LOWEST_COST_WITHOUT_CAP"
+  daily_budget_huf: 5000
+  geo_locations: ["HU"]
+  age_min: 40
+  age_max: 65
+  genders: [2]   # 1 = férfi, 2 = nő
+  interests: []   # később feltöltjük targeting alapján
+  call_to_action: "SHOP_NOW"
