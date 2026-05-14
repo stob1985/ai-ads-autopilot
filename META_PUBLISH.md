@@ -64,7 +64,7 @@ Remove `--dry-run`. The script:
 
 The manifest prints a link like:
 ```
-https://business.facebook.com/adsmanager/manage/campaigns?act=313572470043786&business_id=478789878959559&selected_campaign_ids=<campaign-id>
+https://business.facebook.com/adsmanager/manage/campaigns?act=<ad-account-id>&business_id=<business-id>&selected_campaign_ids=<campaign-id>
 ```
 
 Open it in your browser:
