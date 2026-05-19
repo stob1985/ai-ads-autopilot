@@ -36,3 +36,10 @@ Thumbs.db
 
 # logs
 *.log
+
+# Meta Ads manifests (contain real campaign/adset/ad IDs)
+meta_manifest.json
+previews/**/meta_manifest.json
+
+# Meta Ads — local-only config (template at config/meta.example.yaml)
+config/meta.yaml

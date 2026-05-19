@@ -1,0 +1,974 @@
+hh_v4_weightloss_01:
+  compliance: weightloss
+  avatar: hormone_harmonia_v4_desire
+  angle: weightloss
+  style: anatomical_infographic
+  variant: 1
+  full_prompt: 'A clean, scientific medical infographic style image in 4:5 portrait format.
+
+    LEFT SIDE: A clean modern anatomical illustration of a 50-year-old woman''s torso (front view, neutral pose, fully clothed, abstract line
+    drawing on cream parchment background). The cortisol-affected abdominal area is subtly highlighted with a soft warm glow. Two glands are labeled
+    with thin elegant arrows: "MELLÉKVESE (kortizol ↑)" pointing to upper abdomen, "PETESZÁK (ösztrogén ↓)" pointing to lower pelvis.
+
+    TOP BANNER: Hungarian text overlay in serif science-magazine font: "A 3 HORMON, AMI A HASI ZSÍRT RAKTÁROZZA 45 FELETT". Subline in smaller
+    font: "...és miért nem segít a diéta".
+
+    BOTTOM RIGHT CORNER: Small product mockup of Hormone Harmonia bottle (white plastic, purple-pink label, "72 kapszula" visible) with subtle
+    drop shadow.
+
+    COLOR PALETTE: Cream/parchment (#F5E6D3), warm sepia accents, dark brown labels (#3D2817), bright accent (#D4A574).
+
+    STYLE: Editorial science magazine aesthetic, like Scientific American 1960s. Serif typography (Caslon, Garamond style). Generous negative
+    space. NOT cluttered.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_weightloss_02:
+  compliance: weightloss
+  avatar: hormone_harmonia_v4_desire
+  angle: weightloss
+  style: ugc_iphone
+  variant: 2
+  full_prompt: 'A native UGC-style iPhone photo, 4:5 portrait format, slightly imperfect framing.
+
+    SUBJECT: A 48-year-old Hungarian woman in casual home clothing (oversized cotton sweater, minimal makeup), standing in a typical modern Hungarian
+    apartment kitchen. She holds a Hormone Harmonia bottle in one hand and looks at it with a neutral, contemplative expression — NOT smiling
+    broadly, NOT staged. Morning light from a side window, slightly warm tones.
+
+    ENVIRONMENT: Tile countertop, a half-empty coffee mug on the side, a folded newspaper. Slightly messy real-life kitchen, NOT a magazine shoot.
+
+    NO TEXT OVERLAY (pure native style — text goes in primary copy only).
+
+    STYLE: Like a friend posting on Instagram stories — handheld phone aesthetic, slight motion blur on the bottle, real human imperfection. The
+    woman looks like someone you''d see at a grocery store, not a model. Age 45-55, Central European features, brown/auburn hair with subtle grays.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_weightloss_03:
+  compliance: weightloss
+  avatar: hormone_harmonia_v4_desire
+  angle: weightloss
+  style: bold_color_block
+  variant: 3
+  full_prompt: 'A bold, attention-grabbing graphic design poster, 4:5 portrait format.
+
+    BACKGROUND: Solid magenta-pink color block (#E91E63) covering top 70%. Bottom 30%: Cream/off-white (#F5E6D3).
+
+    MAIN HEADLINE (top, white bold sans-serif, large): "A KALÓRIA NEM A PROBLÉMA."
+
+    SUBLINE (white, slightly smaller, italics): "A KORTIZOL AZ."
+
+    MIDDLE TEXT BLOCK (cream area, dark brown serif font):
+
+    "3 hormon, ami a hasi zsírt raktározza 45 felett.
+
+    ↳ Minden 100 nőből 73 érintett.
+
+    ↳ A diéta NEM oldja meg."
+
+    BOTTOM RIGHT CORNER: Small Hormone Harmonia mockup in the cream area, with thin caption: "Hormone Harmonia — természetes megoldás".
+
+    TYPOGRAPHY: Display sans-serif (like Druk, Tungsten) for headline, elegant serif (like Caslon) for body. NO PHOTOS, ALL GRAPHIC DESIGN, like
+    a Black Girl Vitamins / Girls Gone Strong ad.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_weightloss_04:
+  compliance: weightloss
+  avatar: hormone_harmonia_v4_desire
+  angle: weightloss
+  style: vintage_scientific
+  variant: 4
+  full_prompt: 'A vintage scientific illustration aesthetic, 4:5 portrait format, like a page from a 1890s anatomical atlas.
+
+    BACKGROUND: Aged sepia parchment with soft brown coffee-stain texture and slight edge browning. NOT pristine — looks like a real old book
+    page.
+
+    CENTRAL ILLUSTRATION: Hand-drawn ink anatomical sketch of female abdominal cavity (technical, NOT graphic — like Vesalius/Gray''s Anatomy
+    style). Visible: adrenal glands (kidneys area), ovaries, midriff. Labels in elegant cursive script (Hungarian): "Mellékvese — kortizol forrás",
+    "Petefészek — ösztrogén forrás", "Hasi régió — kortizol-okozta zsírraktározás".
+
+    TOP TEXT (vintage serif): "Az Endokrinológia Elfeledett Fejezete". Subtitle smaller: "A perimenopauza alatti hasi zsír valódi oka".
+
+    BOTTOM TEXT (book-style attribution, faded): "Hormonális Egyensúly — Modern Megoldások, 2024".
+
+    PRODUCT: Bottom-right corner, Hormone Harmonia bottle integrated as if sketched on the same page — drawn in the same ink style as the anatomy,
+    not photographic, with hand-drawn label "Hormone Harmonia™".
+
+    COLOR PALETTE: Sepia (#8B7355), aged cream (#E8DDC4), ink brown (#3D2817).
+
+    STYLE: Like Modere or BHRT Training Academy ads — authoritative, scholarly.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_weightloss_05:
+  compliance: weightloss
+  avatar: hormone_harmonia_v4_desire
+  angle: weightloss
+  style: testimonial_portrait
+  variant: 5
+  full_prompt: 'A documentary-style portrait photo, 4:5 portrait format.
+
+    SUBJECT: A real-looking 49-year-old Hungarian woman named "Anna" sitting at her dining table in soft natural morning light. She wears a simple
+    linen blouse, hair in a low ponytail, slight smile (NOT toothy — gentle, real). She looks slightly off-camera, holding a coffee cup.
+
+    ENVIRONMENT: Hungarian apartment kitchen background — bookshelf with magyar könyvek visible, a vase of dried flowers. Slight depth-of-field
+    blur.
+
+    LEFT-SIDE QUOTE OVERLAY (large serif quote marks). Hungarian text in elegant serif:
+
+    "Az első, amit észrevettem: már nem kívántam az édességet 4-kor délután. Aztán a puffadás eltűnt. 8 hét alatt 6 kilóval vagyok kevesebb —
+    diéta nélkül."
+
+    ATTRIBUTION (small bottom-left): "— Anna, 49 éves, Budapest".
+
+    BOTTOM RIGHT: Discrete Hormone Harmonia bottle on the table next to Anna, slightly out of focus, NOT advertised — just present.
+
+    STYLE: Like a New York Times "Real Stories" portrait. Subtle age signs visible (slight crow''s feet, natural hair texture). 100% Hungarian
+    appearance, NOT a Western European model.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_energy_01:
+  compliance: energy
+  avatar: hormone_harmonia_v4_desire
+  angle: energy
+  style: anatomical_infographic
+  variant: 1
+  full_prompt: 'A clean scientific medical infographic, 4:5 portrait format.
+
+    LEFT SIDE: Anatomical illustration of female body with TWO highlighted regions: 1) Thyroid gland (neck area) labeled "PAJZSMIRIGY (lassul)".
+    2) Cellular mitochondria zoomed-in inset (circular detail) labeled "MITOKONDRIUMOK (energia gyár)". A subtle arrow connects them showing "hormonális
+    signal".
+
+    TOP HEADLINE (Hungarian serif): "NEM AZ ÖREGEDÉSTŐL FÁRADSZ — A HORMONJAID FELBORULTAK". Subline: "A 3 mechanizmus, ami az energiát ellopja
+    45 után".
+
+    RIGHT SIDE: 3 small horizontal bar charts going down: "Mitokondrium aktivitás", "Pajzsmirigy hormon", "Sejtszintű energia".
+
+    BOTTOM RIGHT: Hormone Harmonia bottle, subtle integration.
+
+    COLOR PALETTE: Cream parchment, deep teal accent (#005F73), warm sepia.
+
+    STYLE: Editorial science, like Pendulum (Halle Berry) ads.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_energy_02:
+  compliance: energy
+  avatar: hormone_harmonia_v4_desire
+  angle: energy
+  style: ugc_iphone
+  variant: 2
+  full_prompt: 'A native UGC iPhone selfie style, 4:5 portrait format.
+
+    SUBJECT: A 47-year-old Hungarian woman in her bedroom, sitting on the edge of her bed, still in pajamas. She holds her phone for a selfie
+    — looking tired but not exhausted, slight under-eye circles, hair messy bedhead.
+
+    EXPRESSION: Half-smile, eye-roll humor — like "lol, look at me, what is happening" — NOT depression, NOT model glamour. Real human "ugh, mornings"
+    vibe.
+
+    ENVIRONMENT: Unmade bed visible, morning light through curtains, a nightstand with water glass and Hormone Harmonia bottle naturally placed.
+
+    NO TEXT OVERLAY (pure native).
+
+    COLOR PALETTE: Cool morning blue-grey light, neutral skin tones.
+
+    STYLE: Sarah Mitchell / Becca Fisher feel. Very Instagram-real. Imperfect framing, slight tilt.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_energy_03:
+  compliance: energy
+  avatar: hormone_harmonia_v4_desire
+  angle: energy
+  style: bold_color_block
+  variant: 3
+  full_prompt: 'A bold graphic design poster, 4:5 portrait format.
+
+    BACKGROUND: Bright energizing yellow-orange (#FFB84D) top 60%. Bottom 40%: dark navy (#0A2540).
+
+    HEADLINE (top, navy bold serif on yellow): "FÁRADT VAGY — 30 ÉVES KORODBAN IS LEHETTÉL VOLNA.". SUBLINE (smaller, italic): "Most miért tűnik
+    mindennap maratonnak?".
+
+    MIDDLE: Simple minimal icons — battery icon with low charge, clock icon, a tired face emoji-style illustration.
+
+    BOTTOM BLOCK (navy, yellow text):
+
+    "NEM AZ ÖREGEDÉS A HIBÁS. A 3 HORMON AMI ELLOPJA AZ ENERGIÁD:
+
+    ↳ KORTIZOL (állandóan magas)
+
+    ↳ PAJZSMIRIGY (lassul)
+
+    ↳ ÖSZTROGÉN (ingadozik)"
+
+    BOTTOM RIGHT CORNER: Hormone Harmonia mockup small, navy section.
+
+    TYPOGRAPHY: Display sans-serif headline, serif body. High contrast, Health Insider style.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_energy_04:
+  compliance: energy
+  avatar: hormone_harmonia_v4_desire
+  angle: energy
+  style: vintage_scientific
+  variant: 4
+  full_prompt: 'A vintage scientific page aesthetic, 4:5 portrait format.
+
+    BACKGROUND: Aged sepia parchment with subtle aging.
+
+    CENTRAL: Hand-drawn line graph showing "Női energia szint" (Y-axis), age 20-60 (X-axis). The line drops dramatically around age 42-45, with
+    hand-drawn annotation: "PERIMENOPAUZA — hormonális zuhanás".
+
+    Below the graph, three smaller circular ink illustrations: mitochondria (cellular energy), thyroid gland, adrenal gland. Each with cursive
+    Hungarian labels.
+
+    TOP TEXT (vintage book title): "Az Energia Görbéje — Mit nem mond el az orvosod".
+
+    BOTTOM RIGHT: Hand-sketched Hormone Harmonia bottle, with cursive label "Hormone Harmonia — természetes támogatás".
+
+    COLOR: Sepia, dark brown ink, aged paper.
+
+    STYLE: 1920s medical journal page. Modere / BHRT vibe.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_energy_05:
+  compliance: energy
+  avatar: hormone_harmonia_v4_desire
+  angle: energy
+  style: testimonial_portrait
+  variant: 5
+  full_prompt: 'A documentary portrait, 4:5 portrait format.
+
+    SUBJECT: A 51-year-old Hungarian woman "Réka" in her home office or living room, captured in candid mid-action — maybe organizing papers,
+    or coming back from a morning walk (jacket still on her shoulder). She has more vitality than Anna — slightly more present, energetic, BUT
+    realistic, not influencer-energy.
+
+    EXPRESSION: Looking at camera with a quiet, confident smile.
+
+    ENVIRONMENT: Hungarian-style apartment, books in background, a plant.
+
+    QUOTE OVERLAY (left side, serif):
+
+    "Régen mindig energikus voltam. Aztán egyik napról a másikra úgy éreztem, kicseréltek. 3 hónappal később újra látom magam a tükörben."
+
+    ATTRIBUTION: "— Réka, 51 éves, Debrecen".
+
+    BOTTOM RIGHT: Hormone Harmonia bottle on a side table.
+
+    COLOR PALETTE: Warm autumn tones, soft afternoon light.
+
+    STYLE: Magazine portrait, NOT stock photo. Real woman energy.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_sleep_01:
+  compliance: sleep
+  avatar: hormone_harmonia_v4_desire
+  angle: sleep
+  style: anatomical_infographic
+  variant: 1
+  full_prompt: 'Scientific infographic, 4:5 portrait format.
+
+    CENTRAL ELEMENT: Cross-section illustration of brain/head profile (side view, woman, age 50), highlighting: pineal gland (small purple-glowing
+    dot) labeled "TOBOZMIRIGY (melatonin)"; hypothalamus (small orange-glowing dot) labeled "HIPOTALAMUSZ (hőszabályozás)".
+
+    Below brain illustration, two small icons — estrogen molecule diagram (chemistry style) and progesterone molecule diagram, with Hungarian
+    labels: "Ösztrogén — ingadozik" and "Progeszteron — csökken".
+
+    TOP HEADLINE: "MIÉRT NEM TUDSZ ALUDNI 45 FELETT?". Subline: "A 4 hormon, ami az éjszakai hőhullámot okozza".
+
+    BACKGROUND: Deep midnight blue gradient (#0F2027 to #2C5364), suggesting nighttime. TEXT COLOR: Cream/off-white for contrast.
+
+    BOTTOM RIGHT: Hormone Harmonia bottle, subtle moonlight glow effect.
+
+    STYLE: National Geographic dark-mode science illustration.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_sleep_02:
+  compliance: sleep
+  avatar: hormone_harmonia_v4_desire
+  angle: sleep
+  style: ugc_iphone
+  variant: 2
+  full_prompt: 'Native UGC style iPhone photo, 4:5 portrait format.
+
+    SUBJECT: A 49-year-old Hungarian woman lying in bed at 3 AM (visible alarm clock on nightstand showing "03:14"), looking up at the ceiling.
+    She has thrown off the blanket — visible only sheets, no nudity. Her hair is slightly damp from sweating. Expression: tired frustration, eyes
+    open but exhausted.
+
+    LIGHT: Only the alarm clock glow + soft moonlight from window.
+
+    NO TEXT OVERLAY.
+
+    ENVIRONMENT: Typical Hungarian bedroom, partner sleeping next to her (out of focus). Water glass and Hormone Harmonia bottle on nightstand.
+
+    COLOR PALETTE: Deep blues, soft alarm clock red glow accent.
+
+    STYLE: Candid documentary, like Sarah Mitchell night ad. Feels like a 3 AM real moment captured.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_sleep_03:
+  compliance: sleep
+  avatar: hormone_harmonia_v4_desire
+  angle: sleep
+  style: bold_color_block
+  variant: 3
+  full_prompt: 'Bold graphic poster, 4:5 portrait format.
+
+    BACKGROUND: Deep midnight purple (#1A1B41) top 65%. Bottom 35%: cream off-white (#F5E6D3).
+
+    HEADLINE (top, cream serif on purple): "03:47. ÚJRA FELRIADTÁL.". SUBLINE (italic cream): "Az 5. éjszaka egymás után.".
+
+    MIDDLE: A simple line drawing of an alarm clock and a pillow, minimal.
+
+    BOTTOM (cream block, dark purple text):
+
+    "A HŐHULLÁMOS ÉJSZAKA NEM AZ ÉLETKOR. A HORMONJAID PRÓBÁLNAK SZÓLNI:
+
+    ↳ Ösztrogén ingadozás
+
+    ↳ Progeszteron hiány
+
+    ↳ Hipotalamusz tengely zavart"
+
+    BOTTOM RIGHT: Hormone Harmonia mockup in cream section.
+
+    TYPOGRAPHY: Bold serif headline (Playfair Display style), sans-serif body.
+
+    STYLE: High contrast, Bonafide / MenoLabs aesthetic.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_sleep_04:
+  compliance: sleep
+  avatar: hormone_harmonia_v4_desire
+  angle: sleep
+  style: vintage_scientific
+  variant: 4
+  full_prompt: 'Vintage scientific aesthetic, 4:5 portrait format.
+
+    BACKGROUND: Aged paper with subtle browning.
+
+    CENTRAL: Hand-drawn 24-hour clock face, with a sleep cycle diagram overlaid — showing "normál ciklus" (gentle waves) vs "perimenopauza ciklus"
+    (jagged, interrupted waves). Hungarian annotations.
+
+    Around the clock, 4 small hand-drawn ink illustrations: pineal gland in brain, estrogen/progesterone molecule, hot flash thermal map of body,
+    adrenal gland with cortisol arrow. Hungarian cursive labels.
+
+    TOP TEXT (book title style): "A Női Alvás Megzavart Ritmusa". Subtitle: "Miért riadsz fel 3-kor? — A hormonális magyarázat".
+
+    BOTTOM RIGHT: Hand-sketched Hormone Harmonia bottle, integrated.
+
+    COLOR: Sepia, faded blue accents, ink brown.
+
+    STYLE: Old medical encyclopedia page.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_sleep_05:
+  compliance: sleep
+  avatar: hormone_harmonia_v4_desire
+  angle: sleep
+  style: testimonial_portrait
+  variant: 5
+  full_prompt: 'Documentary portrait, 4:5 portrait format.
+
+    SUBJECT: A 52-year-old Hungarian woman "Judit" sitting at her kitchen table in MORNING light (suggesting she finally slept well). She holds
+    a steaming cup of tea with both hands, looking down at it with a quiet, relieved smile — NOT joyful, just "finally rested" calm.
+
+    ENVIRONMENT: Hungarian kitchen, soft 7 AM light through a window with sheer curtains. A small breakfast plate visible. Slight bedhead in her
+    hair.
+
+    QUOTE OVERLAY (right side, serif):
+
+    "Hónapok óta minden hajnalban felriadtam — szívdobogás, pánik. Az első hét után végre átaludtam az éjszakát. Mintha visszakaptam volna a saját
+    testemet."
+
+    ATTRIBUTION: "— Judit, 52 éves, Szeged".
+
+    BOTTOM RIGHT: Hormone Harmonia bottle on the kitchen table, naturally placed.
+
+    COLOR PALETTE: Warm morning cream and gold tones, gentle.
+
+    STYLE: Quiet, intimate documentary moment.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_mood_01:
+  compliance: mood
+  avatar: hormone_harmonia_v4_desire
+  angle: mood
+  style: anatomical_infographic
+  variant: 1
+  full_prompt: 'Scientific infographic, 4:5 portrait format.
+
+    CENTRAL: Side-profile silhouette of a woman''s head with brain visible, showing hormone pathways with thin elegant arrows: limbic system (highlighted
+    soft pink) labeled "ÉRZELMI KÖZPONT"; hypothalamus labeled "Hormonális karmester"; serotonin pathway labeled "Boldogság-hormon (zavart)";
+    estrogen receptor labeled "Ösztrogén kötődés".
+
+    TOP HEADLINE: "A HANGULATINGADOZÁS NEM A SZEMÉLYISÉGED — A HORMONJAID.". Subline: "Miért érzed, hogy nem te vagy önmagad 45 felett?".
+
+    COLOR: Soft pinks, dusty rose, cream parchment.
+
+    BOTTOM RIGHT: Hormone Harmonia bottle.
+
+    STYLE: Soft scientific, like a Through Menopause ad.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_mood_02:
+  compliance: mood
+  avatar: hormone_harmonia_v4_desire
+  angle: mood
+  style: ugc_iphone
+  variant: 2
+  full_prompt: 'Native iPhone-style photo, 4:5 portrait, slightly bittersweet.
+
+    SUBJECT: A 50-year-old Hungarian mother sitting alone at a dining table that has clear "family just left" energy — empty plates, a child''s
+    homework book, a husband''s coffee mug. She holds her face in her hands, NOT sobbing — just a quiet "ugh" moment, exhausted.
+
+    She is realistically dressed (jeans, sweater), no makeup, hair tied back.
+
+    NO TEXT OVERLAY.
+
+    ENVIRONMENT: Hungarian apartment dining room, after-dinner mess, late afternoon golden hour light from a window.
+
+    COLOR: Warm golden, shadows that feel emotionally heavy but not sad.
+
+    STYLE: Becca Fisher ad — relatable, mid-action, not posed. Friend, not model.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_mood_03:
+  compliance: mood
+  avatar: hormone_harmonia_v4_desire
+  angle: mood
+  style: bold_color_block
+  variant: 3
+  full_prompt: 'Bold graphic, 4:5 portrait format.
+
+    BACKGROUND: Deep coral pink (#E76F51) top 65%. Bottom 35%: warm cream (#F5E6D3).
+
+    HEADLINE (top, white bold sans-serif): "AZ ELŐBB ÚJBÓL FELKAPTAM A VIZET.". SUBLINE (italic): "...és nem értem miért.".
+
+    MIDDLE: Simple line illustration of two faces — same woman with two expressions (calm and tense), suggesting mood swings.
+
+    BOTTOM (cream, dark text):
+
+    "A HORMONÁLIS HULLÁMVASÚT NEM A FEJEDBEN VAN. 3 HORMON OKOZZA A MOOD SWING-EKET 45 UTÁN:
+
+    ↳ Ösztrogén (ingadozik)
+
+    ↳ Progeszteron (csökken)
+
+    ↳ Szerotonin (érintett)"
+
+    BOTTOM RIGHT: Hormone Harmonia mockup.
+
+    TYPOGRAPHY: Bold display sans, body serif.
+
+    STYLE: Wellbrooke / Becca Fisher — emotional, real.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_mood_04:
+  compliance: mood
+  avatar: hormone_harmonia_v4_desire
+  angle: mood
+  style: vintage_scientific
+  variant: 4
+  full_prompt: 'Vintage scientific page, 4:5 portrait format.
+
+    BACKGROUND: Aged paper with slight pink-coral tint.
+
+    CENTRAL: Hand-drawn diagram showing a brain cross-section with hormone receptors illustrated. Multiple small drawings around it: limbic system
+    close-up, hormone molecules, a vintage "ANGER vs CALM" mood scale. Hungarian cursive annotations throughout.
+
+    TOP TEXT (book title style): "A Nőiség Hormonális Lélektana". Subtitle: "A perimenopauza érzelmi viharának valódi forrása".
+
+    BOTTOM: Hand-sketched Hormone Harmonia bottle integrated.
+
+    COLOR: Sepia with subtle coral/rose accents.
+
+    STYLE: Old Freudian-era psychology textbook page, but accurate.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_mood_05:
+  compliance: mood
+  avatar: hormone_harmonia_v4_desire
+  angle: mood
+  style: testimonial_portrait
+  variant: 5
+  full_prompt: 'Documentary portrait, 4:5 portrait format.
+
+    SUBJECT: A 48-year-old Hungarian woman "Eszter" with her teenage daughter in a candid hug from behind — Eszter''s eyes closed in a calm, restored
+    moment. The daughter (16-ish) is hugging from behind with a slight smile. This is the "got my mom back" emotional moment.
+
+    EXPRESSION: Eszter looks restored, calm, eyes closed in a quiet moment.
+
+    ENVIRONMENT: Hungarian home interior, soft afternoon light, slightly out-of-focus background.
+
+    QUOTE OVERLAY (right side):
+
+    "3 hónapja nem ismertem magamra a saját családomban. Ma este a lányom azt mondta: ''Anya, megint olyan vagy mint régen.''"
+
+    ATTRIBUTION: "— Eszter, 48 éves, Pécs".
+
+    BOTTOM RIGHT: Hormone Harmonia bottle on a shelf in background, subtle.
+
+    COLOR PALETTE: Warm golden hour, soft skin tones, family-intimate.
+
+    STYLE: Real moment — like a family photographer captured it.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_hotflash_01:
+  compliance: hotflash
+  avatar: hormone_harmonia_v4_desire
+  angle: hotflash
+  style: anatomical_infographic
+  variant: 1
+  full_prompt: 'Scientific infographic, 4:5 portrait format.
+
+    CENTRAL: Cross-section illustration of female head/brain side profile. HIGHLIGHTED: hypothalamus glowing soft orange-red (heat dysregulation).
+    Arrow labels: "HIPOTALAMUSZ — hőszabályozás központja", "ÖSZTROGÉN-RECEPTOR — érzékeny zóna".
+
+    Body illustration on right side with thermal-map style red hotspots: face flushing, chest/neck flushing, back of neck heat.
+
+    TOP HEADLINE: "A HŐHULLÁM 4 PERCBEN — MI TÖRTÉNIK A TESTBEN". Subline: "A hipotalamusz hormonális zavarának vizuális magyarázata".
+
+    COLOR PALETTE: Cream parchment, warm reds and oranges as heat indicators.
+
+    BOTTOM RIGHT: Hormone Harmonia bottle with cooling-blue accent.
+
+    STYLE: Editorial science — Halsten / Hinge Health vibe.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_hotflash_02:
+  compliance: hotflash
+  avatar: hormone_harmonia_v4_desire
+  angle: hotflash
+  style: ugc_iphone
+  variant: 2
+  full_prompt: 'Native iPhone photo, 4:5 portrait format.
+
+    SUBJECT: A 51-year-old Hungarian woman sitting at her desk in an open-plan office, holding a small portable fan to her face. Her cheeks are
+    flushed, neckline slightly damp, hair stuck to forehead. She''s trying to be discrete but obviously uncomfortable.
+
+    EXPRESSION: Self-conscious half-smile, "this is happening at work" energy.
+
+    ENVIRONMENT: Hungarian office (visible co-worker out of focus, computer screen, papers). Mid-day natural light.
+
+    NO TEXT OVERLAY.
+
+    COLOR PALETTE: Office cool blue-grey, with warm flushed face as focal point.
+
+    STYLE: Candid moment, like a friend texted you a "OMG help" selfie.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_hotflash_03:
+  compliance: hotflash
+  avatar: hormone_harmonia_v4_desire
+  angle: hotflash
+  style: bold_color_block
+  variant: 3
+  full_prompt: 'Bold graphic, 4:5 portrait format.
+
+    BACKGROUND: Fiery orange-red gradient (#F4511E to #BF360C) top 65%. Bottom 35%: cool ice blue (#E0F4F8).
+
+    HEADLINE (top, white bold sans-serif on red): "5 ORVOS MONDTA, HOGY ''CSAK STRESSZ''.". SUBLINE (italic, white): "Aztán megtudtam az igazat.".
+
+    MIDDLE: Simple thermometer icon with high reading, surrounded by sweat-drop icons.
+
+    BOTTOM (blue section, dark text):
+
+    "A HŐHULLÁM NEM SZTRESSZ. A HIPOTALAMUSZ HORMONÁLIS ZAVARA OKOZZA:
+
+    ↳ Ösztrogén ingadozás
+
+    ↳ Hipotalamusz tengely
+
+    ↳ Termoregulációs zavar"
+
+    BOTTOM RIGHT: Hormone Harmonia mockup in blue cool section.
+
+    TYPOGRAPHY: Bold sans display, serif body.
+
+    STYLE: High-contrast Best Probiotics / Halsten ad style.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_hotflash_04:
+  compliance: hotflash
+  avatar: hormone_harmonia_v4_desire
+  angle: hotflash
+  style: vintage_scientific
+  variant: 4
+  full_prompt: 'Vintage scientific page, 4:5 portrait format.
+
+    BACKGROUND: Aged parchment with subtle warm tones.
+
+    CENTRAL: Hand-drawn vintage anatomical illustration of female body with "thermal flushing zones" indicated by hand-shaded watercolor reds
+    — face, neck, chest. Like an 1890s thermal map.
+
+    Small inset diagrams: hypothalamus close-up, estrogen molecule, a vintage thermometer. Hungarian cursive annotations.
+
+    TOP TEXT (book title): "A Klimax Hőhullámának Anatómiai Magyarázata". Subtitle: "A hipotalamusz és az ösztrogén szerepe — modern megértés".
+
+    BOTTOM RIGHT: Hand-drawn Hormone Harmonia bottle integration.
+
+    COLOR: Sepia with warm watercolor red accents.
+
+    STYLE: 1890s medical illustration page.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_hotflash_05:
+  compliance: hotflash
+  avatar: hormone_harmonia_v4_desire
+  angle: hotflash
+  style: testimonial_portrait
+  variant: 5
+  full_prompt: 'Documentary portrait, 4:5 portrait format.
+
+    SUBJECT: A 53-year-old Hungarian woman "Katalin" outdoors in a Hungarian summer setting — perhaps a Balaton lakeside café terrace or a city
+    park bench. She wears a light summer dress, no jacket needed (the "I can finally wear summer clothes again" moment). Slight wind in her hair,
+    sunlight on her face, calm relieved expression.
+
+    ENVIRONMENT: Hungarian outdoor summer scene — Balaton in background, or Margitsziget Budapest. Soft warm light.
+
+    QUOTE OVERLAY (left side, serif):
+
+    "Tavaly nyáron mindig kabátot vittem magammal — nem tudtam mikor jön a következő hőhullám. Idén nyáron először érzem, hogy a testem újra az
+    enyém."
+
+    ATTRIBUTION: "— Katalin, 53 éves, Veszprém".
+
+    BOTTOM RIGHT: Hormone Harmonia bottle on the café table next to her glass.
+
+    COLOR PALETTE: Warm summer golden tones, blue sky/lake in background.
+
+    STYLE: Magazine summer editorial, documentary feel, not fashion.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_brainfog_01:
+  compliance: brainfog
+  avatar: hormone_harmonia_v4_desire
+  angle: brainfog
+  style: anatomical_infographic
+  variant: 1
+  full_prompt: 'Scientific infographic, 4:5 portrait format.
+
+    CENTRAL: Brain side-profile illustration with cognitive regions highlighted: hippocampus (memory) labeled "EMLÉKEZET KÖZPONT"; prefrontal
+    cortex labeled "DÖNTÉSI KÖZPONT"; estrogen receptor map across brain labeled "ÖSZTROGÉN-RECEPTOROK".
+
+    Below brain, a hormone-cognition link diagram showing how estrogen drop affects cognitive function.
+
+    TOP HEADLINE: "A BRAIN FOG NEM A KOR — A HORMONJAID.". Subline: "Miért ködös a fejed 45 felett? — Az ösztrogén-agy tengely magyarázata".
+
+    COLOR PALETTE: Cream parchment, deep purple-blue (#5C6BC0) accents.
+
+    BOTTOM RIGHT: Hormone Harmonia bottle with subtle clarity-suggesting glow.
+
+    STYLE: Halle Berry Pendulum cognitive ad / Black Girl Vitamins.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_brainfog_02:
+  compliance: brainfog
+  avatar: hormone_harmonia_v4_desire
+  angle: brainfog
+  style: ugc_iphone
+  variant: 2
+  full_prompt: 'Native iPhone photo, 4:5 portrait format.
+
+    SUBJECT: A 48-year-old Hungarian woman sitting at her home office desk, both hands on her temples, looking down at a laptop screen filled
+    with text she can''t focus on. Reading glasses pushed up on her forehead.
+
+    EXPRESSION: Frustrated concentration loss — NOT crying, just "I can''t think today, what''s happening to me" exhausted.
+
+    ENVIRONMENT: Home office with bookshelf, half-drunk coffee, scattered papers. Mid-day natural light.
+
+    NO TEXT OVERLAY.
+
+    COLOR PALETTE: Cool office light, slightly desaturated.
+
+    STYLE: Real moment, like a friend captured it. Becca Fisher feel.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_brainfog_03:
+  compliance: brainfog
+  avatar: hormone_harmonia_v4_desire
+  angle: brainfog
+  style: bold_color_block
+  variant: 3
+  full_prompt: 'Bold graphic, 4:5 portrait format.
+
+    BACKGROUND: Foggy gradient grey-blue (#B0BEC5 to #455A64) top 65%. Bottom 35%: bright clarity yellow (#FFD600).
+
+    HEADLINE (top, white bold serif on grey): "...HOGY IS HÍVTÁK?". SUBLINE (white italic): "Mit akartam mondani?".
+
+    MIDDLE: Simple graphic — a brain silhouette half-obscured by literal fog illustration.
+
+    BOTTOM (yellow section, dark text):
+
+    "A BRAIN FOG NEM ÖREGEDÉS. A 3 HORMON, AMI A KONCENTRÁCIÓT ELLOPJA:
+
+    ↳ Ösztrogén (kognitív funkció)
+
+    ↳ Pajzsmirigy (mentális energia)
+
+    ↳ Kortizol (memória zavar)"
+
+    BOTTOM RIGHT: Hormone Harmonia mockup in yellow section.
+
+    TYPOGRAPHY: Bold display serif, sans body.
+
+    STYLE: High-contrast The New Knew / Halle Berry style.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_brainfog_04:
+  compliance: brainfog
+  avatar: hormone_harmonia_v4_desire
+  angle: brainfog
+  style: vintage_scientific
+  variant: 4
+  full_prompt: 'Vintage scientific page, 4:5 portrait format.
+
+    BACKGROUND: Aged paper with subtle blue-grey tint.
+
+    CENTRAL: Hand-drawn anatomical brain illustration with old-style phrenology-inspired labels (but accurate modern anatomy). Small diagrams:
+    hippocampus close-up, estrogen-receptor binding diagram, a vintage "memory test" chart. Hungarian cursive annotations.
+
+    TOP TEXT (book title): "A Női Agy Kognitív Változásai". Subtitle: "A perimenopauza alatti memóriazavar hormonális háttere".
+
+    BOTTOM RIGHT: Hand-sketched Hormone Harmonia bottle.
+
+    COLOR: Sepia with subtle blue accents.
+
+    STYLE: 1890s neurology textbook page.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'
+hh_v4_brainfog_05:
+  compliance: brainfog
+  avatar: hormone_harmonia_v4_desire
+  angle: brainfog
+  style: testimonial_portrait
+  variant: 5
+  full_prompt: 'Documentary portrait, 4:5 portrait format.
+
+    SUBJECT: A 50-year-old Hungarian woman "Marianna" in a professional office setting, but candid — perhaps mid-presentation moment where she''s
+    confidently making a point. She wears smart-casual professional attire (blazer, simple blouse), age-appropriate, NOT corporate stereotype.
+
+    EXPRESSION: Confident, focused, mid-thought. The "I have my brain back" energy.
+
+    ENVIRONMENT: Modern Hungarian office with subtle local cues (Hungarian flag visible somewhere subtle, or Budapest skyline through a window).
+
+    QUOTE OVERLAY (right side, serif):
+
+    "47 évesen majdnem felmondtam. A brain fog tönkretette a prezentációkat, a meetingeket. Most újra én vezetem a csapatom — és újra emlékszem
+    a nevekre."
+
+    ATTRIBUTION: "— Marianna, 50 éves, Budapest".
+
+    BOTTOM RIGHT: Hormone Harmonia bottle on her desk.
+
+    COLOR PALETTE: Modern professional cool tones with warm portrait lighting.
+
+    STYLE: Forbes-magazine style portrait, but authentic.
+
+
+    Product details (when visible): Hormone Harmonia — white plastic bottle with a purple/pink label, label reads ''Hormone Harmonia'' and ''72
+    vegán kapszula''. Optional cardboard box next to it.
+
+
+    Avoid: plastic skin, oversaturated colors, AI hands, distorted face, six fingers, blurry text, asymmetric eyes, perfect studio lighting, stock
+    photo aesthetic, white teeth perfection, generic woman smiling, before-after collage, weight loss progress, body comparison, medical certificate,
+    doctor''s coat with name tag, fake science labels, watermark, brand logos, western model or American suburban setting (subject must read Hungarian).'

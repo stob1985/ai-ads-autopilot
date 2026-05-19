@@ -1,0 +1,241 @@
+ph_v2_D1_C1:
+  compliance: sleep
+  avatar: petharmony_v2_desire
+  desire: D1
+  desire_label: sleep
+  creative: 1
+  aspect_ratio: '4:5'
+  full_prompt: 'Authentic UGC bedside smartphone photo at night, low warm light from bedside lamp only. Hungarian woman in her mid-40s lying in
+    bed, exhausted face, hair messy, dark circles under eyes, looking down at the floor where her golden retriever or vizsla is sitting and aggressively
+    scratching its belly with hind leg. Digital alarm clock visible on nightstand showing "03:47" in red digits. Soft shadows, real bedroom mess
+    — blanket disheveled, glass of water, phone face-down. Authentic phone photo aesthetic, slight grain. NOT staged, NOT professional. Photo
+    looks like the woman just woke up and took a quick photo out of exhaustion.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D1_C2:
+  compliance: sleep
+  avatar: petharmony_v2_desire
+  desire: D1
+  desire_label: sleep
+  creative: 2
+  aspect_ratio: '4:5'
+  full_prompt: 'Authentic UGC ground-level close-up photo of dog''s paw being licked obsessively in dim bedroom light. Visible saliva staining
+    on golden fur between paw pads (rusty discoloration), raw irritated skin. Dog''s silhouette blurred in background, just the paw and tongue
+    in focus. Bedroom carpet visible. Soft moody night lighting from a single bedroom lamp. Slightly disturbing but NOT graphic. Smartphone macro
+    photo quality, slight motion blur.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D1_C3:
+  compliance: sleep
+  avatar: petharmony_v2_desire
+  desire: D1
+  desire_label: sleep
+  creative: 3
+  aspect_ratio: '4:5'
+  full_prompt: 'Authentic UGC smartphone photo from bedroom doorway perspective at night. Hungarian woman in her 40s sitting on the edge of a
+    bed in pajamas, head in hands, looking exhausted and defeated. Behind her: empty pillow on the other side of the bed (partner has left to
+    sleep elsewhere). On the floor next to bed: golden retriever scratching itself. Single warm lamp lighting from nightstand. Real Hungarian
+    bedroom — IKEA-style furniture, family photo on nightstand. NOT staged — looks like a documentary moment of family stress.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D2_C1:
+  compliance: oldDog
+  avatar: petharmony_v2_desire
+  desire: D2
+  desire_label: oldDog
+  creative: 1
+  aspect_ratio: '4:5'
+  full_prompt: 'Vertical split-screen authentic UGC smartphone photo. LEFT SIDE: Happy golden retriever 2 years ago, running joyfully in green
+    Hungarian backyard, sunny day, healthy shiny coat, tongue out, eyes bright, full of energy — looks like a candid family photo from a happier
+    time. RIGHT SIDE: Same dog today, lying on a bed indoors looking sad and tired, visible red irritated skin on belly, dull coat, missing fur
+    patches, head down. Same dog, completely different energy. Thin white vertical divider in middle. Authentic phone photo aesthetic, NOT professional.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D2_C2:
+  compliance: oldDog
+  avatar: petharmony_v2_desire
+  desire: D2
+  desire_label: oldDog
+  creative: 2
+  aspect_ratio: '4:5'
+  full_prompt: 'Authentic UGC photo from a family album style. Soft vintage filter aesthetic. Happy dog (golden retriever or vizsla) running through
+    autumn leaves in a Hungarian park, mid-air, ears flapping, complete joy. Sunny golden hour lighting. The photo has slight imperfections —
+    finger blur on edge, slightly off-center composition. Looks like a phone photo a dog owner snapped 2 years ago and saved on their camera roll.
+    Bottom corner small text overlay in Hungarian: "Tavaly októberben".
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D2_C3:
+  compliance: oldDog
+  avatar: petharmony_v2_desire
+  desire: D2
+  desire_label: oldDog
+  creative: 3
+  aspect_ratio: '4:5'
+  full_prompt: 'Authentic UGC smartphone photo. Hungarian park scene, spring afternoon, golden hour. A woman in her late 30s walking her healthy-looking
+    dog (golden retriever or vizsla) off-leash in green grass. The dog is mid-run, tail up, ears alert, joyful. Woman has a relaxed happy smile
+    — NOT posed, NOT staged — looks like a real moment caught between strides. Background: typical Hungarian residential park with trees. Slight
+    motion blur on dog, perfect freeze on woman.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D3_C1:
+  compliance: noVet
+  avatar: petharmony_v2_desire
+  desire: D3
+  desire_label: noVet
+  creative: 1
+  aspect_ratio: '1:1'
+  full_prompt: 'Top-down overhead authentic UGC smartphone photo of a Hungarian kitchen table. On the table: a calculator, multiple veterinary
+    bills crumpled and stacked (some visible amounts in Hungarian forints: "45.000 Ft", "38.000 Ft", "52.000 Ft"), empty prescription medicine
+    bottles, a half-finished dog food bag (generic, no specific brand visible), and a worried hand holding a coffee mug. Morning natural daylight
+    from window. Real messy kitchen counter aesthetic. NOT professional flat lay — looks like an exhausted moment of reckoning.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D3_C2:
+  compliance: noVet
+  avatar: petharmony_v2_desire
+  desire: D3
+  desire_label: noVet
+  creative: 2
+  aspect_ratio: '1:1'
+  full_prompt: 'Authentic UGC close-up photo of a hand holding a generic prescription bottle of corticosteroid pills (label blurred to be generic,
+    no real brand visible). In background: dog visibly scratching its skin out of focus. The pill bottle is in sharp focus, dog is blurred symbolizing
+    that the medication isn''t really helping. Natural window light, kitchen counter setting. NOT staged commercial photography — looks like a
+    moment of realization. Slight smartphone blur.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D3_C3:
+  compliance: noVet
+  avatar: petharmony_v2_desire
+  desire: D3
+  desire_label: noVet
+  creative: 3
+  aspect_ratio: '4:5'
+  full_prompt: 'Authentic UGC smartphone photo, slightly out of focus. Hungarian woman in her 40s sitting at a kitchen table, calculator and bills
+    spread out, hand pressed to her forehead in frustration. Behind her: dog visible through doorway, scratching on the floor. Warm afternoon
+    light from window. Real Hungarian apartment setting. The image captures financial stress AND emotional exhaustion in one frame. NOT staged.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D4_C1:
+  compliance: natural
+  avatar: petharmony_v2_desire
+  desire: D4
+  desire_label: natural
+  creative: 1
+  aspect_ratio: '1:1'
+  full_prompt: 'Editorial flat lay photo on a white marble kitchen counter. Four small ceramic bowls arranged in a row, each containing one natural
+    ingredient: 1) fresh pineapple chunks (representing bromelain), 2) dried stinging nettle root pieces, 3) bright green leafy quercetin-source
+    plants (like onion or apple), 4) a small clear glass vial of light amber liquid (representing plasma). Each bowl has a small handwritten Hungarian
+    label card placed next to it. PetHarmony jar visible in the corner of the frame. Natural daylight from above, soft shadows. Clean minimalist
+    editorial composition, warm earth tones. Photorealistic, not illustration.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D4_C2:
+  compliance: natural
+  avatar: petharmony_v2_desire
+  desire: D4
+  desire_label: natural
+  creative: 2
+  aspect_ratio: '1:1'
+  full_prompt: 'Authentic editorial-style infographic photo. Clean white background. Center: a generic prescription pill bottle with red X mark
+    crossing it out (subtle, not too aggressive). Around it in a circle: small icons/symbols representing side effects — a weight scale (weight
+    gain), a liver outline (liver damage), water drop (excessive thirst), immune cell (suppressed immunity). On the other side, partially shown:
+    PetHarmony jar with green checkmark and small natural ingredient icons (leaf, plant, drop). Editorial pharmacy aesthetic, soft natural lighting.
+    NOT cartoon — looks like a science magazine photo.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'
+ph_v2_D4_C3:
+  compliance: natural
+  avatar: petharmony_v2_desire
+  desire: D4
+  desire_label: natural
+  creative: 3
+  aspect_ratio: '4:5'
+  full_prompt: 'Authentic UGC smartphone macro close-up photo. A person''s hand (visible to wrist) holding up a generic dog food bag, finger pointing
+    at small ingredient text on the back label. The label shows blurred text but readable enough to look like a real label. Background is blurred
+    Hungarian kitchen with potted herbs visible. Natural window light. The photo captures a moment of discovery / investigation.
+
+
+    Product details (when visible): PetHarmony — clear plastic jar with black screw cap, white label with a blue dog graphic, prominent ''ALLERGIA''
+    text and ''PetHarmony'' wordmark, ''60 puha rágótabletta''. Soft brown chewable tablets visible inside the jar.
+
+
+    Avoid: stock photo aesthetic, plastic skin, oversaturated colors, AI hands, distorted face, six fingers, perfect studio lighting, fake commercial
+    smile, generic dog stock photo, brand logos other than PetHarmony, watermark, fake science labels, anything that looks like a polished advertisement.
+    Authenticity rule: the image must look like a friend''s WhatsApp photo, not an ad.'

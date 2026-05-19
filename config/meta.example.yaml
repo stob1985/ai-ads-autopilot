@@ -1,0 +1,29 @@
+# =============================================================================
+# Meta Ads konfiguráció — TEMPLATE
+# =============================================================================
+# Másold át ezt a fájlt `meta.yaml` néven, és töltsd ki a saját ID-jeiddel.
+# Csak nyilvános azonosítók — a System User access token a .env-be megy.
+# A meta.yaml gitignored, nem kerül commit-ba.
+# =============================================================================
+
+business_manager_id: "YOUR_BUSINESS_MANAGER_ID"
+ad_account_id: "act_YOUR_AD_ACCOUNT_ID"
+
+pages:
+  example_page:
+    id: "YOUR_PAGE_ID"
+    landing_url: null
+    product_slug: "example"
+
+pixel_id: null
+
+defaults:
+  optimization_goal: "LINK_CLICKS"
+  bid_strategy: "LOWEST_COST_WITHOUT_CAP"
+  daily_budget_huf: 5000
+  geo_locations: ["HU"]
+  age_min: 40
+  age_max: 65
+  genders: [2]   # 1 = férfi, 2 = nő
+  interests: []
+  call_to_action: "SHOP_NOW"

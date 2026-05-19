@@ -1,0 +1,448 @@
+# =============================================================================
+# HORMONE HARMONIA - KÉPGENERÁLÁSI PROMPTOK
+# =============================================================================
+# Konkrét promptok a Gemini Nano Banana 2-höz.
+# Minden prompt egyetlen képet generál egy adott marketing angle-höz.
+# A bulk_generate.py minden full_prompt-ot közvetlenül átad a Gemini-nek,
+# a termékkép referenciaképként megy hozzá.
+# =============================================================================
+
+# =============================================================================
+# WINNER PROMPT #1: KORTIZOL HAS DIAGRAM (Becca Fisher / Happy Mammoth style)
+# =============================================================================
+
+prompt_001_cortisol_diagram:
+  angle: "cortisol_belly"
+  template: "diagram_callouts"
+  priority: "PRIMARY - LEGJOBB TELJESÍTMÉNY"
+  phase: 1
+
+  full_prompt: |
+    A photorealistic, native-feeling Facebook ad image.
+
+    Subject: A 47-year-old European woman, natural appearance, standing front-facing
+    against a clean white/off-white background. She wears a beige nude tank top and
+    matching beige shorts. Body type: average, realistic - slight belly bloating visible,
+    NOT model-thin. Slight hip width, soft arms, real woman's body.
+
+    Hair: Brown, mid-length, natural slightly wavy, no fancy styling.
+    Skin: Realistic with pores, slight redness on cheeks, no makeup or minimal natural makeup.
+    Expression: Neutral, slightly tired, NOT smiling. Direct gaze at camera.
+    Lighting: Soft, even, NOT studio-perfect. Looks like a documentary photo.
+
+    OVERLAY TEXT (in Hungarian, all caps, Black sans-serif):
+    Top of image: "Ezek nem hibák..."
+    Below in larger BOLD red/rust color: "EZ MAGAS KORTIZOL"
+
+    BLACK CALLOUT LINES with arrows pointing to body parts:
+    - Right cheek: "PIROS ITT"
+    - Left cheek/jaw: "FAKÓ ITT"
+    - Right shoulder/arm: "TEXTÚRÁS ITT"
+    - Belly/stomach: "PUFFADT ITT"
+    - Left hip: "EGYENETLEN ITT"
+
+    BOTTOM:
+    - Small product placement on right side: amber glass bottle with pink cap,
+      labeled "HORMONE HARMONIA", with capsule visible next to it
+    - Tiny grey text: "Egyéni eredmények változhatnak"
+    - Red banner across bottom: "❤️ 2,8 MILLIÓ NŐ EGYETÉRT, MŰKÖDIK"
+
+    STYLE NOTES:
+    - NOT polished commercial photography
+    - Looks like an educational/medical diagram + real photo
+    - Native feed ad aesthetic
+    - Minimal, clean, trustworthy
+
+  negative_prompt: |
+    NO airbrushing, NO model-thin body, NO perfect smile, NO young woman under 35,
+    NO studio lighting, NO supplement industry clichés, NO Photoshopped before/after,
+    NO men in image, NO floating pills, NO blue/green wellness aesthetic.
+
+# =============================================================================
+# WINNER PROMPT #2: 3 HÓNAP TRANSZFORMÁCIÓ - SKETCH STYLE
+# =============================================================================
+
+prompt_002_sketch_progression:
+  angle: "cortisol_belly"
+  template: "before_after_progression"
+  priority: "SECONDARY - SIKERES VARIÁNS"
+  phase: 1
+
+  full_prompt: |
+    Hand-drawn pencil sketch illustration in 3-panel format.
+    Three portraits of THE SAME 45-year-old European woman, side by side,
+    showing transformation over 3 months.
+
+    PANEL 1 - "JÚNIUS" (left):
+    - Tired, puffy face
+    - Double chin
+    - Dark circles under eyes
+    - Sad/defeated expression
+    - Hair pulled back messily
+    - Round/swollen face shape
+
+    PANEL 2 - "JÚLIUS" (middle):
+    - Slightly less puffiness
+    - Some definition returning
+    - Less dark circles
+    - Neutral expression
+    - Hair still simple
+
+    PANEL 3 - "AUGUSZTUS" (right):
+    - Clear, defined facial features
+    - No puffiness
+    - Bright eyes
+    - Subtle peaceful look (NOT big smile)
+    - More refined face shape
+
+    All three are simple line drawings, black pen on white background.
+    Each panel has month label below in bold sans-serif Hungarian: "JÚNIUS", "JÚLIUS", "AUGUSZTUS"
+
+    TOP TEXT (large, bold, Hungarian):
+    Black: "NEM ZSÍR VOLT -"
+    Hot pink/magenta: "HANEM VÉGIG IS KORTIZOL."
+
+    BOTTOM (below the 3 portraits):
+    - Hormone Harmonia product photo: white box with Japanese wave pattern + amber bottle with pink cap
+    - Small product description text on box
+    - Optional tiny text: "A magas kortizolszint csökkentését támogatja"
+
+    STYLE: Educational, medical illustration feel. NOT cartoon, NOT photo.
+    Looks like content from a women's health magazine or medical infographic.
+
+  negative_prompt: |
+    NO photorealistic faces, NO color illustration (only black/white sketches),
+    NO cartoon style, NO exaggerated transformation, NO different women in panels.
+
+# =============================================================================
+# WINNER PROMPT #3: HAS-PROGRESSZIÓ ILLUSZTRÁCIÓ
+# =============================================================================
+
+prompt_003_belly_progression:
+  angle: "cortisol_belly"
+  template: "body_progression"
+  priority: "SECONDARY"
+  phase: 1
+
+  full_prompt: |
+    Three colorful illustrated side-view images of a woman's torso in 3-panel layout,
+    showing belly bloating reduction over 3 months. Cartoon/illustration style.
+
+    Each panel shows the same woman's torso from the side:
+    - Wearing a colorful bikini/sports bra (orange/pink with strawberry print)
+    - One hand on hip (relaxed pose)
+    - From shoulder to upper thigh visible
+    - Skin tone: warm, peachy
+    - Blue highlighted area on belly showing inflammation/bloating
+
+    PANEL 1 - "JÚNIUS" (left):
+    - Significant belly protrusion
+    - Large blue highlighted area covering full belly
+    - Visible bloating
+
+    PANEL 2 - "JÚLIUS" (middle):
+    - Reduced belly size
+    - Medium blue area
+    - Some flatness returning
+
+    PANEL 3 - "AUGUSZTUS" (right):
+    - Flat, toned belly
+    - Minimal blue accent (almost gone)
+    - Visible improvement
+
+    Each panel labeled below: "JÚNIUS", "JÚLIUS", "AUGUSZTUS" (bold sans-serif)
+
+    TOP TEXT:
+    Black bold: "NEM ZSÍR VOLT -"
+    Pink/magenta bold: "HANEM VÉGIG IS KORTIZOL."
+
+    BOTTOM:
+    - Hormone Harmonia product (white box with wave pattern + amber bottle)
+    - Tiny disclaimer text
+
+    STYLE: Educational illustration, vector art feel, clean lines, vibrant but not garish.
+
+  negative_prompt: |
+    NO photorealistic bodies, NO sexual/objectifying poses, NO unrealistic body shapes,
+    NO different bodies between panels.
+
+# =============================================================================
+# UGC NATIVE PROMPT #4: TÜKÖR PILLANAT
+# =============================================================================
+
+prompt_004_mirror_moment:
+  angle: "mirror_stranger"
+  template: "native_ugc"
+  phase: 1
+
+  full_prompt: |
+    Candid, smartphone-quality photo of a 50-year-old European woman
+    standing in front of bathroom mirror.
+
+    Setting: Real home bathroom - white tiles, visible toothbrush holder,
+    soap dispenser, slightly cluttered counter (lipstick, perfume bottle).
+    Soft natural morning light from side window.
+
+    Subject:
+    - Wearing white cotton pajama top OR plain t-shirt
+    - Hair: messy bun or natural hair, some grays visible
+    - Face: tired, no makeup, dark circles
+    - Hand touching her own cheek or pulling skin gently
+    - Looking at her reflection with concerned/sad expression
+    - Slight body weight, real woman's figure
+
+    Camera: From slightly behind her shoulder, capturing both her back
+    and her face in mirror reflection. OR direct shot of mirror reflection.
+
+    Photo quality: Looks like she took it herself or her friend took it.
+    Slightly imperfect framing, real lighting, NOT studio.
+
+    OPTIONAL TEXT OVERLAY (in Hungarian, simple white or black sans-serif):
+    "Hová tűnt a régi te?"
+    OR
+    "Nem ismerem fel magam..."
+
+    STYLE: Documentary, intimate, vulnerable. Like a friend's Instagram story.
+
+  negative_prompt: |
+    NO professional studio photo, NO model pose, NO perfect lighting,
+    NO commercial polish, NO young woman, NO heavy makeup.
+
+# =============================================================================
+# UGC NATIVE PROMPT #5: 3 ÓRAI ÉBREDÉS
+# =============================================================================
+
+prompt_005_3am_wakeup:
+  angle: "3am_wakeup"
+  template: "native_ugc"
+  phase: 1
+
+  full_prompt: |
+    Candid photo of 48-year-old woman sitting up in bed at night.
+
+    Setting: Dark bedroom, only light from her smartphone screen illuminating face.
+    Visible: rumpled bed sheets, pillow, dark room, maybe partner's silhouette
+    sleeping next to her (back turned).
+
+    Subject:
+    - Wearing simple sleep shirt or tank top
+    - Hair messy from sleep
+    - Face: exhausted, slightly worried, dark circles
+    - One hand on chest (where heart is)
+    - Phone in other hand showing time: 3:14 or 3:17
+    - Looking at phone screen
+
+    Lighting: Blue tone from phone screen on her face, rest of room dark.
+    Mood: Anxious, lonely, frustrated.
+
+    Photo quality: Like someone took it candidly, slightly grainy from low light.
+
+    OPTIONAL TEXT OVERLAY:
+    "3:14 AM. Megint."
+    OR
+    "Másodikat ébredek pánikban..."
+
+    STYLE: Real, unposed, emotional documentary moment.
+
+  negative_prompt: |
+    NO posed/staged feeling, NO bright lighting, NO smiling, NO commercial style.
+
+# =============================================================================
+# UGC NATIVE PROMPT #6: RUHÁK NEM JÓK
+# =============================================================================
+
+prompt_006_jeans_dont_fit:
+  angle: "hiding_body"
+  template: "native_ugc"
+  phase: 3
+
+  full_prompt: |
+    Close-up candid photo of woman trying to button her jeans.
+
+    Subject: 45-50 year old woman, mid-section visible (waist down to upper thigh).
+    Wearing dark jeans (struggling to button at waist).
+    White or cream top, slightly riding up.
+    Both hands visible trying to close the button - jeans are tight.
+    Slight belly visible, skin folding slightly above waistband.
+
+    Setting: Home bedroom, soft natural light from window.
+    Visible in background (blurred): closet door, mirror, scattered clothes on bed.
+
+    Camera angle: From above, looking down at her hands and waist area.
+    Focus on the failing button closure.
+
+    OPTIONAL TEXT OVERLAY (Hungarian):
+    "Tavaly még jó volt..."
+    OR
+    "Megint nem megy be..."
+
+    STYLE: Frustrated, real moment. NOT staged. Like a friend showed you this photo.
+
+  negative_prompt: |
+    NO model-thin body, NO professional lighting, NO smiling, NO commercial polish.
+
+# =============================================================================
+# DIAGRAM CALLOUT VARIÁNS #2: HORMONÁLIS HASI HÁJ FÓKUSZ
+# =============================================================================
+
+prompt_007_belly_diagram:
+  angle: "cortisol_belly"
+  template: "diagram_callouts"
+  variant: "belly_focused"
+  phase: 3
+
+  full_prompt: |
+    Photorealistic side-profile image.
+
+    Subject: 47-year-old European woman, side view from waist up to thigh.
+    Wearing simple beige sports bra and beige underwear/shorts.
+    Visible belly with realistic mid-life bloating - NOT exaggerated, NOT thin.
+
+    Background: Clean white/off-white.
+    Lighting: Soft, even, documentary style.
+
+    OVERLAY DIAGRAM (medical illustration style):
+    - Black callout lines pointing to specific belly areas with labels:
+      * "FELSŐ HASI ÖV" - upper belly fat (pointing to upper abdomen)
+      * "KÖZÉPVONAL PUFFADÁS" - midline bloating (pointing to navel area)
+      * "ALSÓ HASI HÁJ" - lower belly pouch (pointing to lower belly)
+      * "OLDALI 'LOVE HANDLES'" - side fat (pointing to obliques)
+
+    TOP TEXT:
+    Black bold: "Ez nem hagyományos zsír."
+    Red bold: "EZ KORTIZOL HAS."
+
+    BOTTOM:
+    Educational text: "A megemelkedett kortizolszint speciálisan a hasi területen tárolja a zsírt"
+    Product placement: small Hormone Harmonia bottle in lower right corner
+
+    STYLE: Medical infographic meets native ad. Educational, NOT salesy.
+
+  negative_prompt: |
+    NO objectification, NO sexual angle, NO thin model body, NO exaggerated bloating.
+
+# =============================================================================
+# UGC TESTIMONIAL PROMPT #8: ELŐTT-UTÁN SZELFI
+# =============================================================================
+
+prompt_008_testimonial_selfie:
+  angle: "identity_recovery"
+  template: "native_ugc"
+  phase: 3
+
+  full_prompt: |
+    Two side-by-side smartphone selfies of same 49-year-old woman.
+
+    LEFT (BEFORE - "Júniusban"):
+    - Bathroom selfie, harsh overhead light
+    - Tired face, no makeup
+    - Hair messy, pulled back
+    - Slightly puffy face
+    - Sad/defeated expression
+    - Wearing pajamas or simple t-shirt
+    - Background: cluttered bathroom
+
+    RIGHT (AFTER - "Most augusztusban"):
+    - Same woman, similar selfie style (NOT professionally done)
+    - Better lighting (window)
+    - Slight natural smile (NOT huge)
+    - Hair brushed but still natural
+    - Face looks rested, less puffy
+    - Wearing nicer simple top
+    - Background: cleaner room
+
+    BOTH PHOTOS look genuinely amateur/authentic - NOT professional.
+
+    TEXT OVERLAY (top, Hungarian):
+    "2 hónap. Ugyanaz a nő. Ugyanaz a tükör."
+
+    BOTTOM TEXT (handwritten style):
+    "Még én is alig hiszem el..."
+
+    BOTTOM RIGHT: small Hormone Harmonia bottle photo
+
+    STYLE: Authentic transformation story, NOT polished marketing.
+
+  negative_prompt: |
+    NO professional photoshoot, NO dramatic lighting differences,
+    NO different faces, NO impossible transformation, NO weight loss extremes.
+
+# =============================================================================
+# TERMÉK LIFESTYLE PROMPT #9
+# =============================================================================
+
+prompt_009_product_morning:
+  angle: "product_lifestyle"
+  template: "product_lifestyle"
+  phase: 3
+
+  full_prompt: |
+    Lifestyle product photo.
+
+    Setting: White marble or wooden kitchen counter, morning light from window.
+
+    Main subject: Hormone Harmonia products
+    - White cardboard box with Japanese wave pattern (gray/black on white)
+    - Amber glass bottle with dusty pink/rose gold cap
+    - Several capsules scattered next to bottle (cream/white capsules)
+    - Visible label text: "HORMONE HARMONIA"
+
+    Surrounding props (slightly out of focus):
+    - Cup of green tea or herbal tea in ceramic mug
+    - Small green plant or eucalyptus stem
+    - Woman's hand reaching for bottle (only forearm visible, natural skin)
+    - Soft white linen napkin
+
+    Lighting: Soft morning sun, natural and warm.
+    Color palette: Cream, white, dusty pink, soft greens, warm browns.
+
+    NO TEXT OVERLAY (clean lifestyle shot)
+
+    STYLE: Wellness Instagram aesthetic, but NOT overly staged.
+    Looks like a real woman's morning routine.
+
+  negative_prompt: |
+    NO sterile medical look, NO blue color palette, NO gym/fitness aesthetic,
+    NO multiple supplement bottles, NO men's hands.
+
+# =============================================================================
+# FÉRJ REAGÁLÁSA PROMPT #10
+# =============================================================================
+
+prompt_010_husband_notices:
+  angle: "family_breakdown"
+  template: "native_ugc"
+  variant: "transformation_relationship"
+  phase: 3
+
+  full_prompt: |
+    Candid photo of middle-aged couple in kitchen.
+
+    Setting: Sunny morning kitchen, real home environment.
+    Visible: coffee maker, fruit bowl, kitchen towels, slight clutter.
+
+    Subject:
+    - Woman (50): standing at counter, making coffee, wearing comfortable home outfit
+    - Man (52): coming up behind her, hands gently on her waist
+    - Both looking content, real moment NOT posed
+    - Woman: slight surprise/happy expression, looking back at him slightly
+    - Man: warm expression, looking at her
+
+    Real bodies, real ages, REAL marriage feel.
+    Soft morning light from kitchen window.
+
+    OPTIONAL TEXT OVERLAY (top, Hungarian, simple white text):
+    "Először 6 év után megérintett..."
+    OR
+    "Mintha újra érdekes lennék számára."
+
+    BOTTOM (small text):
+    "Még csak 4 hét volt."
+
+    Small product placement: Hormone Harmonia bottle on kitchen counter (background, soft focus)
+
+    STYLE: Intimate, candid, real-feeling moment. Documentary photography.
+
+  negative_prompt: |
+    NO model-attractive couple, NO posed/staged feeling, NO young couple,
+    NO commercial chemistry, NO sexual undertones.

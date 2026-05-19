@@ -1,0 +1,151 @@
+# =============================================================================
+# PETHARMONY ALLERGIA RÁGÓTABLETTA - TERMÉK KONFIG
+# =============================================================================
+# Termék: PetHarmony Allergia Rágótabletta (60 db puha rágótabletta)
+# Célközönség: 30-55 éves nők, magyar kutyatulajdonosok, allergiás kutya
+# Stílus: Native UGC — NEM kommerciális reklám
+# =============================================================================
+
+global_settings:
+  brand_name: "PetHarmony"
+  product_line: "Allergia Rágótabletta"
+  language: "hu-HU"
+  market: "HU"
+  currency: "HUF"
+  tone: "empatikus, hiteles, oktató (NEM eladó)"
+
+  ad_styles:
+    - "native_ugc"
+    - "before_after"
+    - "concerned_owner"
+    - "problem_closeup"
+    - "happy_outcome"
+
+  avoid:
+    - "stúdió fény"
+    - "stock photo megjelenés"
+    - "üres fehér háttér (kivéve termékfotó)"
+    - "cartoon / illusztráció / AI-szerű"
+    - "több kutya egy képen"
+    - "csillogó reklám-kinézet"
+    - "garantált gyógyítás ígérete (FB compliance)"
+    - "vér, sebek, gore"
+
+products:
+  - id: "petharmony_allergy_60"
+    name: "PetHarmony Allergia Rágótabletta"
+    sku: "petharmony-allergy-60"
+    image_path: "inputs/products/petharmony_jar.png"
+
+    package: "60 db puha rágótabletta"
+    flavor: "bacon ízű (kutyák jutalomfalatként eszik)"
+    jar_color: "fekete kupak, fehér címke kék kutya logóval"
+    label_text: "PetHarmony ALLERGIA — Hatékony természetes sertésplazma"
+
+    primary_benefits:
+      - id: "natural_plasma"
+        priority: 1
+        text: "Természetes plazma-formula belülről csökkenti a gyulladást"
+        emotional_text: "Belülről gyógyít, nem csak tüneteket kezel"
+
+      - id: "fast_results"
+        priority: 2
+        text: "3-4 hét alatt látható eredmény, vakarózás megszűnik"
+        emotional_text: "Pár hét és újra alszotok az éjszaka"
+
+      - id: "tasty_treat"
+        priority: 3
+        text: "Bacon ízű – kutyák jutalomfalatként eszik"
+        emotional_text: "Nem kell kínlódni a beadással"
+
+      - id: "no_drugs"
+        priority: 4
+        text: "100% természetes, gyógyszermentes megoldás"
+        emotional_text: "Mellékhatások nélkül, hosszú távon biztonságos"
+
+      - id: "all_breeds"
+        priority: 5
+        text: "Minden fajtának és méretnek alkalmas"
+        emotional_text: "Bichontól a labradorig"
+
+    pain_points:
+      - "Folyamatos vakarózás, mancsnyalogatás"
+      - "Vörös, irritált bőr, kopasz foltok"
+      - "Tüsszögés, könnyezés, fülgyulladás"
+      - "Éjszakai vakarózás, alvászavar"
+      - "Drága, sikertelen állatorvosi kezelések"
+
+    unique_mechanism:
+      name: "K-Thrive Formula D"
+      description: "Plazma-alapú gyógyító antitestek (sertésplazma, szérum, albumin, IgG, IgA) közvetlenül a gyulladt területekre jutnak"
+
+    key_ingredients:
+      - "Sertésplazma (csökkenti a gyulladást)"
+      - "Bromelain (ananász enzim)"
+      - "Csalángyökér kivonat"
+      - "Kvercetin (természetes antihisztamin)"
+
+    pricing:
+      regular_huf: 12900
+      sale_huf: 9990
+      bundle_2plus1_huf: 19980
+      bundle_2plus1_value_huf: 38700
+
+    social_proof:
+      reviews: 1423
+      rating: 4.8
+      testimonial: "99%-ban eltűnt minden probléma – Klári M."
+
+target_audience:
+  primary_avatar:
+    name: "Anikó"
+    age_range: "30-55"
+    gender: "female_primary"
+    role: "kutyatulajdonos (1-2 kutya)"
+
+    visual_style:
+      ethnicity: "European/Hungarian"
+      setting: "magyar lakás / kertes ház"
+      makeup: "minimal vagy semmi"
+      tone: "fáradt, aggódó, de elszánt"
+
+    pain_level: "high"
+    tried_before:
+      - "állatorvos (drága, nem segített)"
+      - "hypoallergén táp"
+      - "speciális sampon"
+      - "antihisztamin"
+
+    what_stops_their_scroll:
+      - "ismerős kép — saját kutyájukat látják"
+      - "valós (nem stock) fotó"
+      - "magyar nyelvű hook"
+      - "gazdi-szemszögű, NEM eladó hangnem"
+
+text_overlays:
+  hooks:
+    - "ISMERŐS?"
+    - "3 ÉJSZAKA NEM ALUDTAM..."
+    - "EZ TÖRTÉNT 14 NAP ALATT"
+    - "EZ MENTETTE MEG A KUTYÁMAT"
+    - "VÉGRE ÚJRA SZALADGÁL"
+    - "VAKARÓZÁS, VAKARÓZÁS, VAKARÓZÁS..."
+    - "AZ ÁLLATORVOS NEM TUDTA MEGOLDANI"
+
+  ctas:
+    primary: "MEGRENDELEM →"
+    secondary: "TUDJ MEG TÖBBET →"
+    urgency: "2+1 INGYEN — CSAK MOST"
+    risk_reversal: "30 NAPOS PÉNZVISSZAFIZETÉSI GARANCIA"
+
+  trust_badges:
+    - "⭐ 4,8/5 — 1423 értékelés"
+    - "🌿 100% TERMÉSZETES"
+    - "🇭🇺 MAGYAR ÜGYFÉLSZOLGÁLAT"
+    - "✓ ÁLLATORVOSOK AJÁNLJÁK"
+
+output_specifications:
+  variants_per_prompt: 5
+  total_initial_creatives: 25
+  file_naming:
+    pattern: "{variation_id}_v{n}_{date}.png"
