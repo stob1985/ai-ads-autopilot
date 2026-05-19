@@ -126,12 +126,13 @@ def run_bulk(
     done = 0
     for pid, entry in prompts.items():
         full_prompt = entry["full_prompt"]
+        prompt_aspect = entry.get("aspect_ratio") or aspect_ratio
         for v in range(1, variants + 1):
             done += 1
             label = f"[{done}/{total}] {pid} v{v}"
             console.print(f"[dim]{label}…[/dim]")
             try:
-                img = generate_one(client, full_prompt, product_bytes, product_mime, aspect_ratio)
+                img = generate_one(client, full_prompt, product_bytes, product_mime, prompt_aspect)
             except Exception as e:
                 console.print(f"  [red]✗[/red] {e}")
                 manifest["results"].append({"prompt_id": pid, "variant": v, "error": str(e)})
