@@ -32,7 +32,7 @@ utils.load_env()
 def main() -> None:
     p = argparse.ArgumentParser()
     p.add_argument("--prompts", type=Path, required=True, help="YAML of prompt_id -> {full_prompt, angle, template, phase}")
-    p.add_argument("--product-image", type=Path, required=True, help="Reference product image (passed to every Gemini call)")
+    p.add_argument("--product-image", type=Path, default=None, help="Reference product image (passed to every Gemini call). Omit when the prompts intentionally exclude the product.")
     p.add_argument("--phase", type=int, default=None, help="Only run prompts with this phase number")
     p.add_argument("--avatar", default=None, help="Only run prompts with this avatar tag")
     p.add_argument("--compliance", choices=["compliant", "aggressive"], default=None, help="Only run prompts with this compliance tag")
@@ -45,7 +45,7 @@ def main() -> None:
     if not args.prompts.exists():
         utils.console.print(f"[red]Prompts file not found:[/red] {args.prompts}")
         sys.exit(2)
-    if not args.product_image.exists():
+    if args.product_image and not args.product_image.exists():
         utils.console.print(f"[red]Product image not found:[/red] {args.product_image}")
         utils.console.print(f"[dim]Drop the product PNG at that path, then re-run.[/dim]")
         sys.exit(2)

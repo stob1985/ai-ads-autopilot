@@ -103,22 +103,26 @@ def generate_one(
 
 def run_bulk(
     prompts: dict[str, dict],
-    product_image: Path,
+    product_image: Path | None,
     run_dir: Path,
     aspect_ratio: str = "1:1",
     variants: int = 1,
     sleep_between: float = 0.5,
 ) -> dict:
     client = genai.Client(api_key=require_env("GEMINI_API_KEY"))
-    product_bytes = product_image.read_bytes()
-    product_mime = f"image/{product_image.suffix.lstrip('.').lower().replace('jpg', 'jpeg')}"
+    if product_image:
+        product_bytes = product_image.read_bytes()
+        product_mime = f"image/{product_image.suffix.lstrip('.').lower().replace('jpg', 'jpeg')}"
+    else:
+        product_bytes = None
+        product_mime = None
 
     manifest: dict = {
         "started_at": datetime.now().isoformat(timespec="seconds"),
         "model": MODEL,
         "aspect_ratio": aspect_ratio,
         "variants_per_prompt": variants,
-        "product_image": str(product_image),
+        "product_image": str(product_image) if product_image else None,
         "results": [],
     }
 
